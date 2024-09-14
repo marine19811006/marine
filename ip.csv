@@ -1,0 +1,14 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+192.18.134.22,443,TRUE,SJC,North America,San Jose,131 ms,13655 kB/s
+129.153.126.67,443,TRUE,LAX,North America,Los Angeles,158 ms,9318 kB/s
+144.21.38.56,443,TRUE,FRA,Europe,Frankfurt,251 ms,7602 kB/s
+141.147.28.104,443,TRUE,FRA,Europe,Frankfurt,257 ms,7446 kB/s
+141.147.109.165,443,TRUE,FRA,Europe,Frankfurt,259 ms,7291 kB/s
+138.2.176.189,443,TRUE,FRA,Europe,Frankfurt,267 ms,7050 kB/s
+141.148.227.19,443,TRUE,AMS,Europe,Amsterdam,249 ms,7040 kB/s
+193.123.37.129,443,TRUE,FRA,Europe,Frankfurt,257 ms,6877 kB/s
+158.101.209.158,443,TRUE,FRA,Europe,Frankfurt,256 ms,6711 kB/s
+143.47.235.96,443,TRUE,FRA,Europe,Frankfurt,230 ms,6665 kB/s
+144.21.34.107,443,TRUE,FRA,Europe,Frankfurt,255 ms,5812 kB/s
+130.61.13.62,443,TRUE,FRA,Europe,Frankfurt,261 ms,5476 kB/s
+158.101.215.174,443,TRUE,FRA,Europe,Frankfurt,255 ms,4474 kB/s
