@@ -1,4 +1,4 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+IP鍦板潃,绔彛,鍥炴簮绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,TCP寤惰繜(ms),閫熷害(MB/s)
 89.168.98.81,443,443,TRUE,FRA,Europe,Frankfurt,232,8.38
 143.47.183.87,443,443,TRUE,FRA,Europe,Frankfurt,270,8.36
 129.159.202.155,443,443,TRUE,FRA,Europe,Frankfurt,242,8.33
@@ -63,7 +63,7 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
 141.148.245.201,443,443,TRUE,FRA,Europe,Frankfurt,224,6.63
 68.233.127.163,8443,443,TRUE,YYZ,North America,Toronto,389,6.55
 155.248.178.58,80,443,TRUE,NRT,Asia Pacific,Tokyo,102,6.42
-204.216.105.106,8443,8443,TRUE,YUL,North America,Montréal,330,6.37
+204.216.105.106,8443,8443,TRUE,YUL,North America,Montr茅al,330,6.37
 129.151.204.91,443,443,TRUE,ARN,Europe,Stockholm,297,6.34
 158.178.149.144,443,443,TRUE,FRA,Europe,Frankfurt,346,6.31
 168.138.165.174,443,443,TRUE,SIN,Asia Pacific,Singapore,158,6.21
