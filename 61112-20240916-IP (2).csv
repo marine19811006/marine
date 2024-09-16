@@ -1,0 +1,40 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+166.0.188.128,16819,TRUE,LAX,North America,Los Angeles,179 ms,7910 kB/s
+23.225.64.72,25017,TRUE,SIN,Asia Pacific,Singapore,105 ms,14316 kB/s
+149.104.34.210,9888,TRUE,MRS,Europe,Marseille,101 ms,5397 kB/s
+149.104.35.77,9888,TRUE,MRS,Europe,Marseille,128 ms,5104 kB/s
+149.104.34.28,9888,TRUE,MRS,Europe,Marseille,109 ms,4889 kB/s
+149.104.35.88,9888,TRUE,MRS,Europe,Marseille,97 ms,4611 kB/s
+154.197.92.81,9888,TRUE,MRS,Europe,Marseille,72 ms,4578 kB/s
+154.197.92.91,9888,TRUE,MRS,Europe,Marseille,74 ms,4424 kB/s
+149.104.35.58,9888,TRUE,MRS,Europe,Marseille,79 ms,4398 kB/s
+149.104.35.66,9888,TRUE,MRS,Europe,Marseille,89 ms,4296 kB/s
+149.104.35.74,9888,TRUE,MRS,Europe,Marseille,105 ms,4242 kB/s
+154.197.92.85,9888,TRUE,MRS,Europe,Marseille,64 ms,4225 kB/s
+149.104.35.86,9888,TRUE,MRS,Europe,Marseille,122 ms,4223 kB/s
+154.197.92.72,9888,TRUE,MRS,Europe,Marseille,75 ms,4203 kB/s
+154.197.92.118,9888,TRUE,MRS,Europe,Marseille,82 ms,4192 kB/s
+154.197.92.70,9888,TRUE,MRS,Europe,Marseille,86 ms,4168 kB/s
+149.104.35.72,9888,TRUE,MRS,Europe,Marseille,120 ms,4111 kB/s
+149.104.34.211,9888,TRUE,MRS,Europe,Marseille,73 ms,4099 kB/s
+149.104.35.3,9888,TRUE,MRS,Europe,Marseille,86 ms,4085 kB/s
+154.197.92.86,9888,TRUE,MRS,Europe,Marseille,76 ms,4069 kB/s
+149.104.35.71,9888,TRUE,MRS,Europe,Marseille,91 ms,4024 kB/s
+154.197.92.88,9888,TRUE,MRS,Europe,Marseille,74 ms,4010 kB/s
+149.104.35.81,9888,TRUE,MRS,Europe,Marseille,101 ms,4007 kB/s
+13.125.218.78,443,TRUE,ICN,Asia Pacific,Seoul,113 ms,14937 kB/s
+3.101.110.90,80,TRUE,SJC,North America,San Jose,175 ms,6034 kB/s
+13.53.51.77,8080,TRUE,ARN,Europe,Stockholm,209 ms,5046 kB/s
+99.83.209.185,443,TRUE,IAD,North America,Ashburn,102 ms,4457 kB/s
+13.53.81.150,2083,TRUE,ARN,Europe,Stockholm,194 ms,4441 kB/s
+13.209.166.73,80,FALSE,ICN,Asia Pacific,Seoul,113 ms,79050 kB/s
+35.86.94.173,80,FALSE,PDX,North America,Portland,240 ms,6547 kB/s
+3.141.95.66,80,FALSE,CMH,North America,Columbus,235 ms,4697 kB/s
+117.123.31.2,40005,FALSE,ICN,Asia Pacific,Seoul,74 ms,7628 kB/s
+125.208.102.111,40006,FALSE,ICN,Asia Pacific,Seoul,80 ms,7109 kB/s
+150.230.62.27,443,FALSE,KIX,Asia Pacific,Osaka,197 ms,4727 kB/s
+89.168.122.44,80,FALSE,FRA,Europe,Frankfurt,248 ms,3302 kB/s
+34.160.118.77,80,FALSE,LAX,North America,Los Angeles,177 ms,8398 kB/s
+34.93.226.165,80,FALSE,BOM,Asia Pacific,Mumbai,314 ms,5098 kB/s
+34.36.183.121,80,FALSE,LAX,North America,Los Angeles,177 ms,3869 kB/s
+47.74.155.26,80,FALSE,SIN,Asia Pacific,Singapore,83 ms,14792 kB/s
