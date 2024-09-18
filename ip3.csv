@@ -1,7 +1,7 @@
 IP地址,端口,TLS,数据中心,地区,城市,延迟(ms),速度(MB/s)
 183.236.51.57,25600,TRUE,HKG,Asia Pacific,Hong Kong,490,9340
 183.94.30.165,27431,TRUE,HKG,Asia Pacific,Hong Kong,230,9000
-2408:864e:c03:1c:1::30:165,25975,TRUE,HKG,Asia Pacific,Hong Kong,263,8170
+[2408:864e:c03:1c:1::30:165],25975,TRUE,HKG,Asia Pacific,Hong Kong,263,8170
 157.254.33.94,443,TRUE,HKG,Asia Pacific,Hong Kong,147,7840
 163.177.58.169,25286,TRUE,HKG,Asia Pacific,Hong Kong,138,6810
 222.237.101.115,21328,TRUE,HKG,Asia Pacific,Hong Kong,280,6040
@@ -36,7 +36,7 @@ IP地址,端口,TLS,数据中心,地区,城市,延迟(ms),速度(MB/s)
 45.8.186.139,8443,TRUE,HKG,Asia Pacific,Hong Kong,989,440
 203.89.8.107,443,TRUE,HKG,Asia Pacific,Hong Kong,403,410
 62.72.163.191,443,TRUE,HKG,Asia Pacific,Hong Kong,943,270
-2408:864e:c03:1c:1::30:165,26222,TRUE,HKG,Asia Pacific,Hong Kong,436,220
+[2408:864e:c03:1c:1::30:165],26222,TRUE,HKG,Asia Pacific,Hong Kong,436,220
 206.237.6.57,443,TRUE,HKG,Asia Pacific,Hong Kong,745,210
 124.156.139.192,1901,TRUE,HKG,Asia Pacific,Hong Kong,168,150
 178.253.32.28,2024,TRUE,HKG,Asia Pacific,Hong Kong,962,130
