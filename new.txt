@@ -62,3 +62,4 @@
 vern.ns.cloudflare.com:443#HND
 15.235.48.70:443#HND
 skip.ns.cloudflare.com:443#T.ME
+104.22.49.169:443#HKG
