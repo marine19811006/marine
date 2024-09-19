@@ -58,3 +58,7 @@
 104.19.122.0:443#TPE
 104.19.19.123:443#TPE
 104.19.65.131:443#TPE
+121.158.231.203:10007#HKG
+vern.ns.cloudflare.com:443#HND
+15.235.48.70:443#HND
+skip.ns.cloudflare.com:443#T.ME
