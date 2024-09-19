@@ -64,3 +64,4 @@ vern.ns.cloudflare.com:443#HND
 skip.ns.cloudflare.com:443#T.ME
 104.22.49.169:443#HKG
 104.19.106.50:443#SJC:San Jose
+[2606:4700:a0:256a:9929:fb09:59f8:d1c5]:8443#LAX:Los Angeles
