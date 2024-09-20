@@ -1,13 +1,10 @@
-锘縄P鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 103.235.18.61,34237,TRUE,HKG,Asia Pacific,Hong Kong,75 ms,3462 kB/s
-183.236.51.57,25600,TRUE,HKG,Asia Pacific,Hong Kong,225 ms,2599 kB/s
-183.94.30.165,27431,TRUE,HKG,Asia Pacific,Hong Kong,226 ms,2588 kB/s
 157.254.33.94,443,TRUE,HKG,Asia Pacific,Hong Kong,227 ms,2577 kB/s
 222.237.101.115,21328,TRUE,HKG,Asia Pacific,Hong Kong,229 ms,2555 kB/s
 39.120.102.137,21299,TRUE,HKG,Asia Pacific,Hong Kong,231 ms,2533 kB/s
 183.236.51.57,30578,TRUE,HKG,Asia Pacific,Hong Kong,232 ms,2522 kB/s
 183.94.30.165,26222,TRUE,HKG,Asia Pacific,Hong Kong,233 ms,2511 kB/s
-183.94.30.165,25975,TRUE,HKG,Asia Pacific,Hong Kong,234 ms,2500 kB/s
 101.32.39.249,2615,TRUE,HKG,Asia Pacific,Hong Kong,235 ms,2489 kB/s
 123.215.77.200,10244,TRUE,HKG,Asia Pacific,Hong Kong,237 ms,2467 kB/s
 154.91.196.46,443,TRUE,HKG,Asia Pacific,Hong Kong,238 ms,2456 kB/s
@@ -15,7 +12,6 @@
 180.71.205.236,26257,TRUE,HKG,Asia Pacific,Hong Kong,240 ms,2434 kB/s
 103.214.174.93,443,TRUE,HKG,Asia Pacific,Hong Kong,241 ms,2423 kB/s
 206.237.28.8,443,TRUE,HKG,Asia Pacific,Hong Kong,242 ms,2412 kB/s
-183.94.30.165,26242,TRUE,HKG,Asia Pacific,Hong Kong,225 ms,2390 kB/s
 124.156.149.27,18556,TRUE,HKG,Asia Pacific,Hong Kong,226 ms,2379 kB/s
 101.32.10.244,10457,TRUE,HKG,Asia Pacific,Hong Kong,227 ms,2368 kB/s
 114.205.18.189,25647,TRUE,HKG,Asia Pacific,Hong Kong,228 ms,2357 kB/s
@@ -29,8 +25,6 @@
 219.248.62.241,30019,TRUE,HKG,Asia Pacific,Hong Kong,75 ms,2258 kB/s
 45.8.186.139,8443,TRUE,HKG,Asia Pacific,Hong Kong,225 ms,2247 kB/s
 203.89.8.107,443,TRUE,HKG,Asia Pacific,Hong Kong,226 ms,2236 kB/s
-62.72.163.191,443,TRUE,HKG,Asia Pacific,Hong Kong,227 ms,2225 kB/s
-[2408:864e:c03:1c:1::30:165],26222,TRUE,HKG,Asia Pacific,Hong Kong,228 ms,2214 kB/s
 206.237.6.57,443,TRUE,HKG,Asia Pacific,Hong Kong,229 ms,2203 kB/s
 124.156.139.192,1901,TRUE,HKG,Asia Pacific,Hong Kong,230 ms,2192 kB/s
 178.253.32.28,2024,TRUE,HKG,Asia Pacific,Hong Kong,231 ms,2181 kB/s
