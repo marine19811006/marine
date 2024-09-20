@@ -1,4 +1,4 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
 13.201.221.231,443,TRUE,BOM,Asia Pacific,Mumbai,316 ms,1951 kB/s
 152.70.69.199,443,TRUE,BOM,Asia Pacific,Mumbai,175,5.37
 103.235.18.61,34237,TRUE,HKG,Asia Pacific,Hong Kong,75 ms,3462 kB/s
@@ -40,32 +40,3 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 163.53.246.152,31005,TRUE,HKG,Asia Pacific,Hong Kong,85 ms,22907 kB/s
 163.53.246.152,27043,TRUE,HKG,Asia Pacific,Hong Kong,82 ms,18845 kB/s
 163.53.246.152,27013,TRUE,HKG,Asia Pacific,Hong Kong,68 ms,18031 kB/s
-129.154.46.115,443,TRUE,HYD,Asia Pacific,Hyderabad,83,5.53
-158.180.82.203,8443,TRUE,ICN,Asia Pacific,Seoul,272,7.12
-138.2.122.191,443,TRUE,ICN,Asia Pacific,Seoul,248,5.73
-193.122.107.147,443,TRUE,ICN,Asia Pacific,Seoul,148,5.55
-158.180.65.13,443,TRUE,ICN,Asia Pacific,Seoul,162,5.45
-146.56.142.167,2053,TRUE,ICN,Asia Pacific,Seoul,229,5.44
-193.122.110.171,443,TRUE,ICN,Asia Pacific,Seoul,203,5.38
-131.186.27.112,2096,TRUE,ICN,Asia Pacific,Seoul,172,5.33
-144.24.90.107,443,TRUE,ICN,Asia Pacific,Seoul,254,5.21
-193.123.250.209,2087,TRUE,ICN,Asia Pacific,Seoul,294,5.1
-152.70.88.98,443,TRUE,ICN,Asia Pacific,Seoul,311,4.4
-64.110.103.69,443,TRUE,KIX,Asia Pacific,Osaka,275,5.7
-168.138.46.67,443,TRUE,KIX,Asia Pacific,Osaka,78,5.68
-217.142.243.226,443,TRUE,KIX,Asia Pacific,Osaka,234,5.55
-64.110.104.30,443,TRUE,KIX,Asia Pacific,Osaka,313,5.51
-64.110.98.49,443,TRUE,KIX,Asia Pacific,Osaka,136,4.69
-64.110.101.31,443,TRUE,KIX,Asia Pacific,Osaka,341,2.99
-152.70.85.165,2083,TRUE,KIX,Asia Pacific,Osaka,106,2.45
-129.159.22.4,443,TRUE,MAA,Asia Pacific,Chennai,46,5.38
-141.11.86.143,31268,TRUE,NRT,Asia Pacific,Tokyo,247 ms,385 kB/s
-141.147.163.68,443,TRUE,NRT,Asia Pacific,Tokyo,143,7.18
-168.138.212.196,2096,TRUE,NRT,Asia Pacific,Tokyo,208,5.91
-168.138.215.251,443,TRUE,NRT,Asia Pacific,Tokyo,239,5.73
-141.147.190.128,443,TRUE,NRT,Asia Pacific,Tokyo,271,5.72
-140.83.61.244,443,TRUE,NRT,Asia Pacific,Tokyo,238,5.61
-140.238.40.67,443,TRUE,NRT,Asia Pacific,Tokyo,192,5.59
-131.186.60.210,443,TRUE,NRT,Asia Pacific,Tokyo,70,5.58
-140.238.58.181,2053,TRUE,NRT,Asia Pacific,Tokyo,148,4.77
-168.138.165.174,443,TRUE,SIN,Asia Pacific,Singapore,118,5.81
