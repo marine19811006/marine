@@ -75,3 +75,15 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 172.247.15.240,34237,TRUE,LAX,North America,Los Angeles,195 ms,1497 kB/s
 166.0.188.128,41443,TRUE,LAX,North America,Los Angeles,224 ms,4767 kB/s
 103.99.178.62,51794,TRUE,LAX,North America,Los Angeles,212 ms,1020 kB/s
+150.230.42.80,443,TRUE,SJC,North America,San Jose,304,8.72
+129.146.7.98,443,TRUE,LAX,North America,Los Angeles,325,7.99
+192.9.158.188,443,TRUE,SJC,North America,San Jose,367,7.29
+164.152.17.14,443,TRUE,ORD,North America,Chicago,227,6.3
+152.70.123.225,8443,TRUE,SJC,North America,San Jose,269,4.9
+193.122.197.111,443,TRUE,IAD,North America,Ashburn,418,4.6
+129.153.119.97,443,TRUE,LAX,North America,Los Angeles,374,4.48
+150.136.61.148,443,TRUE,IAD,North America,Ashburn,324,4.24
+129.146.134.77,443,TRUE,LAX,North America,Los Angeles,281,4.1
+140.238.158.238,8080,TRUE,YYZ,North America,Toronto,316,3.97
+150.136.121.64,80,TRUE,IAD,North America,Ashburn,339,3.83
+129.159.83.88,8443,TRUE,IAD,North America,Ashburn,306,3.37
