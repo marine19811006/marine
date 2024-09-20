@@ -2,25 +2,23 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 204.110.223.167,80,TRUE,CMH,North America,Columbus,220 ms,5595 kB/s
 204.110.223.199,80,TRUE,CMH,North America,Columbus,224 ms,5016 kB/s
 204.110.223.219,80,TRUE,CMH,North America,Columbus,230 ms,4767 kB/s
-204.110.223.75,80,TRUE,ORD,North America,Chicago,220 ms,5016 kB/s
-204.110.223.180,80,TRUE,ORD,North America,Chicago,220 ms,4767 kB/s
-204.110.220.192,80,TRUE,PDX,North America,Portland,230 ms,5016 kB/s
-204.110.220.145,80,TRUE,PDX,North America,Portland,245 ms,4767 kB/s
-3.101.110.90,80,TRUE,SJC,North America,San Jose,245 ms,3241 kB/s
-204.110.220.18,80,TRUE,SEA,North America,Seattle,218 ms,6151 kB/s
-204.110.221.135,80,TRUE,SEA,North America,Seattle,197 ms,6075 kB/s
-204.110.221.176,80,TRUE,SEA,North America,Seattle,208 ms,5589 kB/s
-204.110.221.138,80,TRUE,SEA,North America,Seattle,215 ms,5449 kB/s
-204.110.221.77,80,TRUE,SEA,North America,Seattle,224 ms,3665 kB/s
-204.110.221.251,80,TRUE,SEA,North America,Seattle,203 ms,7608 kB/s
-204.110.221.112,80,TRUE,SEA,North America,Seattle,215 ms,4912 kB/s
 204.110.223.177,80,TRUE,CMH,North America,Columbus,235 ms,4795 kB/s
 204.110.223.6,80,TRUE,CMH,North America,Columbus,239 ms,2018 kB/s
 18.189.94.250,443,TRUE,CMH,North America,Columbus,220 ms,5545 kB/s
+3.99.106.179,443,TRUE,DFW,North America,Dallas,257 ms,5520 kB/s
+3.98.73.243,443,TRUE,DFW,North America,Dallas,255 ms,5134 kB/s
+15.157.7.168,443,TRUE,DFW,North America,Dallas,269 ms,4176 kB/s
+18.189.139.61,443,TRUE,DFW,North America,Dallas,236 ms,2985 kB/s
+15.156.203.151,8443,TRUE,DFW,North America,Dallas,245 ms,3241 kB/s
+168.138.141.235,2053,TRUE,GRU,South America,S?o Paulo,360 ms,1238 kB/s
 150.136.240.243,443,TRUE,IAD,North America,Ashburn,265 ms,5016 kB/s
 129.213.136.180,443,TRUE,IAD,North America,Ashburn,275 ms,4767 kB/s
 129.80.123.71,443,TRUE,IAD,North America,Ashburn,220 ms,3241 kB/s
 99.83.209.185,443,TRUE,IAD,North America,Ashburn,220 ms,5016 kB/s
+193.122.197.111,443,TRUE,IAD,North America,Ashburn,418,4.6
+150.136.61.148,443,TRUE,IAD,North America,Ashburn,324,4.24
+150.136.121.64,80,TRUE,IAD,North America,Ashburn,339,3.83
+129.159.83.88,8443,TRUE,IAD,North America,Ashburn,306,3.37
 103.99.179.39,443,TRUE,LAX,North America,Los Angeles,245 ms,5016 kB/s
 129.146.248.140,443,TRUE,LAX,North America,Los Angeles,265 ms,4767 kB/s
 158.101.15.48,443,TRUE,LAX,North America,Los Angeles,275 ms,3241 kB/s
@@ -32,42 +30,14 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 132.226.31.178,443,TRUE,LAX,North America,Los Angeles,245 ms,3241 kB/s
 129.146.220.190,443,TRUE,LAX,North America,Los Angeles,265 ms,5016 kB/s
 129.146.254.39,443,TRUE,LAX,North America,Los Angeles,275 ms,4767 kB/s
-35.167.93.200,443,TRUE,PDX,North America,Portland,224 ms,3241 kB/s
-152.67.231.219,443,TRUE,SJC,North America,San Jose,265 ms,3241 kB/s
-146.235.197.123,443,TRUE,SJC,North America,San Jose,275 ms,5016 kB/s
-155.248.202.141,443,TRUE,SJC,North America,San Jose,220 ms,4767 kB/s
-146.235.219.98,443,TRUE,SJC,North America,San Jose,220 ms,3241 kB/s
-150.230.47.3,443,TRUE,SJC,North America,San Jose,224 ms,5016 kB/s
-150.230.34.116,443,TRUE,SJC,North America,San Jose,220 ms,5016 kB/s
-155.248.196.123,443,TRUE,YVR,North America,Vancouver,265 ms,4767 kB/s
-168.138.66.11,443,TRUE,YYZ,North America,Toronto,220 ms,5016 kB/s
 129.153.126.67,443,TRUE,LAX,North America,Los Angeles,250 ms,2433 kB/s
-44.227.22.10,443,TRUE,SEA,North America,Seattle,217 ms,5602 kB/s
-3.99.106.179,443,TRUE,DFW,North America,Dallas,257 ms,5520 kB/s
-3.98.73.243,443,TRUE,DFW,North America,Dallas,255 ms,5134 kB/s
-50.112.166.63,443,TRUE,SEA,North America,Seattle,222 ms,4499 kB/s
-15.157.7.168,443,TRUE,DFW,North America,Dallas,269 ms,4176 kB/s
-18.189.139.61,443,TRUE,DFW,North America,Dallas,236 ms,2985 kB/s
-152.67.249.123,443,TRUE,SJC,North America,San Jose,185 ms,3642 kB/s
 2.56.255.16,443,TRUE,LAX,North America,Los Angeles,190 ms,8282 kB/s
-192.9.180.162,443,TRUE,SYD,Oceania,Sydney,224 ms,3241 kB/s
-164.152.26.70,2052,TRUE,ORD,North America,Chicago,265 ms,4767 kB/s
 152.70.155.147,2053,TRUE,LAX,North America,Los Angeles,230 ms,5016 kB/s
 129.146.242.24,2053,TRUE,LAX,North America,Los Angeles,230 ms,4767 kB/s
-168.138.141.235,2053,TRUE,GRU,South America,S?o Paulo,360 ms,1238 kB/s
-146.235.211.70,2082,TRUE,SJC,North America,San Jose,224 ms,4767 kB/s
 152.70.155.147,2083,TRUE,LAX,North America,Los Angeles,224 ms,3241 kB/s
-146.235.211.70,2083,TRUE,SJC,North America,San Jose,230 ms,4767 kB/s
-164.152.26.70,2086,TRUE,ORD,North America,Chicago,275 ms,3241 kB/s
 152.70.155.147,2087,TRUE,LAX,North America,Los Angeles,220 ms,4767 kB/s
 152.70.155.147,2096,TRUE,LAX,North America,Los Angeles,245 ms,4767 kB/s
-15.156.203.151,8443,TRUE,DFW,North America,Dallas,245 ms,3241 kB/s
 152.70.155.147,8443,TRUE,LAX,North America,Los Angeles,265 ms,3241 kB/s
-204.216.105.106,8443,TRUE,YUL,North America,Montréal,230 ms,3241 kB/s
-3.98.54.22,8443,TRUE,YUL,North America,Montr茅al,245 ms,5016 kB/s
-68.233.127.163,8443,TRUE,YYZ,North America,Toronto,275 ms,3241 kB/s
-40.233.70.7,8443,TRUE,YYZ,North America,Toronto,220 ms,4767 kB/s
-15.156.17.176,8443,TRUE,YUL,North America,Montréal,242 ms,1382 kB/s
 166.0.188.128,16819,TRUE,LAX,North America,Los Angeles,220 ms,3241 kB/s
 217.20.241.36,17826,TRUE,LAX,North America,Los Angeles,230 ms,3241 kB/s
 103.94.185.165,23429,TRUE,LAX,North America,Los Angeles,224 ms,4767 kB/s
@@ -75,15 +45,45 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 172.247.15.240,34237,TRUE,LAX,North America,Los Angeles,195 ms,1497 kB/s
 166.0.188.128,41443,TRUE,LAX,North America,Los Angeles,224 ms,4767 kB/s
 103.99.178.62,51794,TRUE,LAX,North America,Los Angeles,212 ms,1020 kB/s
-150.230.42.80,443,TRUE,SJC,North America,San Jose,304,8.72
 129.146.7.98,443,TRUE,LAX,North America,Los Angeles,325,7.99
-192.9.158.188,443,TRUE,SJC,North America,San Jose,367,7.29
-164.152.17.14,443,TRUE,ORD,North America,Chicago,227,6.3
-152.70.123.225,8443,TRUE,SJC,North America,San Jose,269,4.9
-193.122.197.111,443,TRUE,IAD,North America,Ashburn,418,4.6
 129.153.119.97,443,TRUE,LAX,North America,Los Angeles,374,4.48
-150.136.61.148,443,TRUE,IAD,North America,Ashburn,324,4.24
 129.146.134.77,443,TRUE,LAX,North America,Los Angeles,281,4.1
+204.110.223.75,80,TRUE,ORD,North America,Chicago,220 ms,5016 kB/s
+204.110.223.180,80,TRUE,ORD,North America,Chicago,220 ms,4767 kB/s
+164.152.26.70,2052,TRUE,ORD,North America,Chicago,265 ms,4767 kB/s
+164.152.26.70,2086,TRUE,ORD,North America,Chicago,275 ms,3241 kB/s
+164.152.17.14,443,TRUE,ORD,North America,Chicago,227,6.3
+204.110.220.192,80,TRUE,PDX,North America,Portland,230 ms,5016 kB/s
+204.110.220.145,80,TRUE,PDX,North America,Portland,245 ms,4767 kB/s
+35.167.93.200,443,TRUE,PDX,North America,Portland,224 ms,3241 kB/s
+204.110.220.18,80,TRUE,SEA,North America,Seattle,218 ms,6151 kB/s
+204.110.221.135,80,TRUE,SEA,North America,Seattle,197 ms,6075 kB/s
+204.110.221.176,80,TRUE,SEA,North America,Seattle,208 ms,5589 kB/s
+204.110.221.138,80,TRUE,SEA,North America,Seattle,215 ms,5449 kB/s
+204.110.221.77,80,TRUE,SEA,North America,Seattle,224 ms,3665 kB/s
+204.110.221.251,80,TRUE,SEA,North America,Seattle,203 ms,7608 kB/s
+204.110.221.112,80,TRUE,SEA,North America,Seattle,215 ms,4912 kB/s
+44.227.22.10,443,TRUE,SEA,North America,Seattle,217 ms,5602 kB/s
+50.112.166.63,443,TRUE,SEA,North America,Seattle,222 ms,4499 kB/s
+3.101.110.90,80,TRUE,SJC,North America,San Jose,245 ms,3241 kB/s
+152.67.231.219,443,TRUE,SJC,North America,San Jose,265 ms,3241 kB/s
+146.235.197.123,443,TRUE,SJC,North America,San Jose,275 ms,5016 kB/s
+155.248.202.141,443,TRUE,SJC,North America,San Jose,220 ms,4767 kB/s
+146.235.219.98,443,TRUE,SJC,North America,San Jose,220 ms,3241 kB/s
+150.230.47.3,443,TRUE,SJC,North America,San Jose,224 ms,5016 kB/s
+150.230.34.116,443,TRUE,SJC,North America,San Jose,220 ms,5016 kB/s
+152.67.249.123,443,TRUE,SJC,North America,San Jose,185 ms,3642 kB/s
+146.235.211.70,2082,TRUE,SJC,North America,San Jose,224 ms,4767 kB/s
+146.235.211.70,2083,TRUE,SJC,North America,San Jose,230 ms,4767 kB/s
+150.230.42.80,443,TRUE,SJC,North America,San Jose,304,8.72
+192.9.158.188,443,TRUE,SJC,North America,San Jose,367,7.29
+152.70.123.225,8443,TRUE,SJC,North America,San Jose,269,4.9
+192.9.180.162,443,TRUE,SYD,Oceania,Sydney,224 ms,3241 kB/s
+204.216.105.106,8443,TRUE,YUL,North America,Montréal,230 ms,3241 kB/s
+3.98.54.22,8443,TRUE,YUL,North America,Montr茅al,245 ms,5016 kB/s
+15.156.17.176,8443,TRUE,YUL,North America,Montréal,242 ms,1382 kB/s
+155.248.196.123,443,TRUE,YVR,North America,Vancouver,265 ms,4767 kB/s
+168.138.66.11,443,TRUE,YYZ,North America,Toronto,220 ms,5016 kB/s
+68.233.127.163,8443,TRUE,YYZ,North America,Toronto,275 ms,3241 kB/s
+40.233.70.7,8443,TRUE,YYZ,North America,Toronto,220 ms,4767 kB/s
 140.238.158.238,8080,TRUE,YYZ,North America,Toronto,316,3.97
-150.136.121.64,80,TRUE,IAD,North America,Ashburn,339,3.83
-129.159.83.88,8443,TRUE,IAD,North America,Ashburn,306,3.37
