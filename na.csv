@@ -1,40 +1,40 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度,,,,
-204.110.223.167,80,TRUE,US:CMH,North America,Columbus,220 ms,5595 kB/s,,,,
-204.110.223.199,80,TRUE,US:CMH,North America,Columbus,224 ms,5016 kB/s,,,,
-204.110.223.219,80,TRUE,US:CMH,North America,Columbus,230 ms,4767 kB/s,,,,
-204.110.223.177,80,TRUE,US:CMH,North America,Columbus,235 ms,4795 kB/s,,,,
-204.110.223.6,80,TRUE,US:CMH,North America,Columbus,239 ms,2018 kB/s,,,,
-18.189.94.250,443,TRUE,US:CMH,North America,Columbus,220 ms,5545 kB/s,,,,
-3.99.106.179,443,TRUE,US:DFW,North America,Dallas,257 ms,5520 kB/s,,,,
-3.98.73.243,443,TRUE,US:DFW,North America,Dallas,255 ms,5134 kB/s,,,,
-15.157.7.168,443,TRUE,US:DFW,North America,Dallas,269 ms,4176 kB/s,,,,
-18.189.139.61,443,TRUE,US:DFW,North America,Dallas,236 ms,2985 kB/s,,,,
-15.156.203.151,8443,TRUE,US:DFW,North America,Dallas,245 ms,3241 kB/s,,,,
-168.138.141.235,2053,TRUE,US:GRU,South America,S?o Paulo,360 ms,1238 kB/s,,,,
-99.83.209.185,443,TRUE,US:IAD,North America,Ashburn,220 ms,5016 kB/s,,,,
-103.99.179.39,443,TRUE,US:LAX,North America,Los Angeles,245 ms,5016 kB/s,,2,,
-129.146.47.72,443,TRUE,US:LAX,North America,Los Angeles,220 ms,4767 kB/s,,7,,
-129.146.254.39,443,TRUE,US:LAX,North America,Los Angeles,275 ms,4767 kB/s,,12,,
-129.153.126.67,443,TRUE,US:LAX,North America,Los Angeles,250 ms,2433 kB/s,,13,,
-217.20.241.36,17826,TRUE,US:LAX,North America,Los Angeles,230 ms,3241 kB/s,,22,,
-103.94.185.165,23429,TRUE,US:LAX,North America,Los Angeles,224 ms,4767 kB/s,,23,,
-172.247.123.56,34237,TRUE,US:LAX,North America,Los Angeles,200 ms,1700 kB/s,,24,,
-172.247.15.240,34237,TRUE,US:LAX,North America,Los Angeles,195 ms,1497 kB/s,,25,,
-166.0.188.128,41443,TRUE,US:LAX,North America,Los Angeles,224 ms,4767 kB/s,,26,,
-164.152.26.70,2086,TRUE,US:ORD,North America,Chicago,275 ms,3241 kB/s,,,,
-35.167.93.200,443,TRUE,US:PDX,North America,Portland,224 ms,3241 kB/s,,,,
-204.110.221.251,80,TRUE,US:SEA,North America,Seattle,203 ms,7608 kB/s,,,,
-44.227.22.10,443,TRUE,US:SEA,North America,Seattle,217 ms,5602 kB/s,,,,
-50.112.166.63,443,TRUE,US:SEA,North America,Seattle,222 ms,4499 kB/s,,,,
-3.101.110.90,80,TRUE,US:SJC,North America,San Jose,245 ms,3241 kB/s,,4,,
-146.235.197.123,443,TRUE,US:SJC,North America,San Jose,275 ms,5016 kB/s,,6,,
-150.230.47.3,443,TRUE,US:SJC,North America,San Jose,224 ms,5016 kB/s,,9,,
-192.9.180.162,443,TRUE,US:SJC,Oceania,Sydney,224 ms,3241 kB/s,,,,
-204.216.105.106,8443,TRUE,US:SJC,North America,Montréal,230 ms,3241 kB/s,,,,
-3.98.54.22,8443,TRUE,US:SJC,North America,Montr茅al,245 ms,5016 kB/s,,,,
-15.156.17.176,8443,TRUE,US:SJC,North America,Montréal,242 ms,1382 kB/s,,,,
-155.248.196.123,443,TRUE,US:SJC,North America,Vancouver,265 ms,4767 kB/s,,,,
-168.138.66.11,443,TRUE,US:SJC,North America,Toronto,220 ms,5016 kB/s,,,,
-68.233.127.163,8443,TRUE,US:SJC,North America,Toronto,275 ms,3241 kB/s,,,,
-40.233.70.7,8443,TRUE,US:SJC,North America,Toronto,220 ms,4767 kB/s,,,,
-140.238.158.238,8080,TRUE,US:SJC,North America,Toronto,316,3.97,,,,
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+204.110.223.167,80,TRUE,US:CMH,North America,Columbus,220 ms,5595 kB/s
+204.110.223.199,80,TRUE,US:CMH,North America,Columbus,224 ms,5016 kB/s
+204.110.223.219,80,TRUE,US:CMH,North America,Columbus,230 ms,4767 kB/s
+204.110.223.177,80,TRUE,US:CMH,North America,Columbus,235 ms,4795 kB/s
+204.110.223.6,80,TRUE,US:CMH,North America,Columbus,239 ms,2018 kB/s
+18.189.94.250,443,TRUE,US:CMH,North America,Columbus,220 ms,5545 kB/s
+3.99.106.179,443,TRUE,US:DFW,North America,Dallas,257 ms,5520 kB/s
+3.98.73.243,443,TRUE,US:DFW,North America,Dallas,255 ms,5134 kB/s
+15.157.7.168,443,TRUE,US:DFW,North America,Dallas,269 ms,4176 kB/s
+18.189.139.61,443,TRUE,US:DFW,North America,Dallas,236 ms,2985 kB/s
+15.156.203.151,8443,TRUE,US:DFW,North America,Dallas,245 ms,3241 kB/s
+168.138.141.235,2053,TRUE,US:GRU,South America,S?o Paulo,360 ms,1238 kB/s
+99.83.209.185,443,TRUE,US:IAD,North America,Ashburn,220 ms,5016 kB/s
+103.99.179.39,443,TRUE,US:LAX,North America,Los Angeles,245 ms,5016 kB/s
+129.146.47.72,443,TRUE,US:LAX,North America,Los Angeles,220 ms,4767 kB/s
+129.146.254.39,443,TRUE,US:LAX,North America,Los Angeles,275 ms,4767 kB/s
+129.153.126.67,443,TRUE,US:LAX,North America,Los Angeles,250 ms,2433 kB/s
+217.20.241.36,17826,TRUE,US:LAX,North America,Los Angeles,230 ms,3241 kB/s
+103.94.185.165,23429,TRUE,US:LAX,North America,Los Angeles,224 ms,4767 kB/s
+172.247.123.56,34237,TRUE,US:LAX,North America,Los Angeles,200 ms,1700 kB/s
+172.247.15.240,34237,TRUE,US:LAX,North America,Los Angeles,195 ms,1497 kB/s
+166.0.188.128,41443,TRUE,US:LAX,North America,Los Angeles,224 ms,4767 kB/s
+164.152.26.70,2086,TRUE,US:ORD,North America,Chicago,275 ms,3241 kB/s
+35.167.93.200,443,TRUE,US:PDX,North America,Portland,224 ms,3241 kB/s
+204.110.221.251,80,TRUE,US:SEA,North America,Seattle,203 ms,7608 kB/s
+44.227.22.10,443,TRUE,US:SEA,North America,Seattle,217 ms,5602 kB/s
+50.112.166.63,443,TRUE,US:SEA,North America,Seattle,222 ms,4499 kB/s
+3.101.110.90,80,TRUE,US:SJC,North America,San Jose,245 ms,3241 kB/s
+146.235.197.123,443,TRUE,US:SJC,North America,San Jose,275 ms,5016 kB/s
+150.230.47.3,443,TRUE,US:SJC,North America,San Jose,224 ms,5016 kB/s
+192.9.180.162,443,TRUE,US:SJC,Oceania,Sydney,224 ms,3241 kB/s
+204.216.105.106,8443,TRUE,US:SJC,North America,Montréal,230 ms,3241 kB/s
+3.98.54.22,8443,TRUE,US:SJC,North America,Montr茅al,245 ms,5016 kB/s
+15.156.17.176,8443,TRUE,US:SJC,North America,Montréal,242 ms,1382 kB/s
+155.248.196.123,443,TRUE,US:SJC,North America,Vancouver,265 ms,4767 kB/s
+168.138.66.11,443,TRUE,US:SJC,North America,Toronto,220 ms,5016 kB/s
+68.233.127.163,8443,TRUE,US:SJC,North America,Toronto,275 ms,3241 kB/s
+40.233.70.7,8443,TRUE,US:SJC,North America,Toronto,220 ms,4767 kB/s
+140.238.158.238,8080,TRUE,US:SJC,North America,Toronto,316,3.97
