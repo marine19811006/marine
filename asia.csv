@@ -1,4 +1,4 @@
-IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 13.201.221.231,443,TRUE,BOM,Asia Pacific,Mumbai,316 ms,1951 kB/s
 152.70.69.199,443,TRUE,BOM,Asia Pacific,Mumbai,175,5.37
 103.235.18.61,34237,TRUE,HKG,Asia Pacific,Hong Kong,75 ms,3462 kB/s
@@ -40,3 +40,27 @@ IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
 163.53.246.152,31005,TRUE,HKG,Asia Pacific,Hong Kong,85 ms,22907 kB/s
 163.53.246.152,27043,TRUE,HKG,Asia Pacific,Hong Kong,82 ms,18845 kB/s
 163.53.246.152,27013,TRUE,HKG,Asia Pacific,Hong Kong,68 ms,18031 kB/s
+168.138.165.174,443,TRUE,SG,Asia Pacific,Singapore,62,6.21
+152.70.69.199,443,TRUE,SG,Asia Pacific,Hyderabad,131,6.13
+132.226.7.217,443,TRUE,SG,Asia Pacific,Tokyo,163,5.81
+64.110.104.30,443,TRUE,SG,Asia Pacific,Osaka,75,5.75
+168.138.212.80,443,TRUE,SG,Asia Pacific,Tokyo,200,5.74
+168.138.201.0,443,TRUE,SG,Asia Pacific,Tokyo,132,5.68
+168.138.46.67,443,TRUE,SG,Asia Pacific,Osaka,170,5.68
+129.154.46.115,443,TRUE,SG,Asia Pacific,Hyderabad,93,5.66
+64.110.103.69,443,TRUE,SG,Asia Pacific,Osaka,134,5.63
+140.83.61.244,443,TRUE,SG,Asia Pacific,Tokyo,117,5.55
+131.186.27.112,2096,TRUE,SG,Asia Pacific,Seoul,193,5.52
+158.180.65.13,443,TRUE,SG,Asia Pacific,Seoul,129,5.45
+217.142.243.226,443,TRUE,SG,Asia Pacific,Osaka,348,5.43
+146.56.142.167,2053,TRUE,SG,Asia Pacific,Seoul,210,5.41
+193.122.110.171,443,TRUE,SG,Asia Pacific,Seoul,204,5.38
+144.24.90.107,443,TRUE,SG,Asia Pacific,Seoul,170,5.36
+141.147.190.128,443,TRUE,SG,Asia Pacific,Tokyo,72,5.32
+64.110.98.49,443,TRUE,SG,Asia Pacific,Osaka,109,5.27
+150.230.7.216,443,TRUE,SG,Asia Pacific,Osaka,72,5.25
+140.238.58.181,2053,TRUE,SG,Asia Pacific,Tokyo,159,4.97
+141.147.161.250,443,TRUE,SG,Asia Pacific,Tokyo,145,4.8
+64.110.101.31,443,TRUE,SG,Asia Pacific,Osaka,189,4.58
+152.70.88.98,443,TRUE,SG,Asia Pacific,Seoul,200,4.46
+138.3.222.33,443,TRUE,SG,Asia Pacific,Tokyo,274,4.44
