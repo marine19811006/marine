@@ -40,3 +40,8 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 163.53.246.152,31005,TRUE,HKG,Asia Pacific,Hong Kong,85 ms,22907 kB/s
 163.53.246.152,27043,TRUE,HKG,Asia Pacific,Hong Kong,82 ms,18845 kB/s
 163.53.246.152,27013,TRUE,HKG,Asia Pacific,Hong Kong,68 ms,18031 kB/s
+141.147.163.68,443,TRUE,JP,Asia Pacific,Tokyo,76,8.92
+168.138.212.80,443,TRUE,JP,Asia Pacific,Tokyo,268,5.77
+141.147.190.128,443,TRUE,JP,Asia Pacific,Tokyo,80,5.73
+155.248.184.2,443,TRUE,JP,Asia Pacific,Tokyo,309,5.73
+141.147.161.250,443,TRUE,JP,Asia Pacific,Tokyo,117,5.11
