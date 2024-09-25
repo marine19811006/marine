@@ -21,6 +21,24 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 172.247.123.56,34237,TRUE,US:LAX,North America,Los Angeles,200 ms,1700 kB/s
 172.247.15.240,34237,TRUE,US:LAX,North America,Los Angeles,195 ms,1497 kB/s
 166.0.188.128,41443,TRUE,US:LAX,North America,Los Angeles,224 ms,4767 kB/s
+38.6.190.192,2083,TRUE,US:LAX,North America,Los Angeles,196 ms,1135 kB/s
+38.6.190.192,2087,TRUE,US:LAX,North America,Los Angeles,209 ms,1132 kB/s
+103.99.178.62,13241,TRUE,US:LAX,North America,Los Angeles,175 ms,1039 kB/s
+172.247.21.125,443,TRUE,US:LAX,North America,Los Angeles,182 ms,848 kB/s
+103.99.178.62,51794,TRUE,US:LAX,North America,Los Angeles,181 ms,844 kB/s
+103.99.178.62,31940,TRUE,US:LAX,North America,Los Angeles,212 ms,822 kB/s
+129.146.220.190,443,TRUE,US:LAX,North America,Los Angeles,237,4.97
+129.146.254.39,443,TRUE,US:LAX,North America,Los Angeles,399,4.7
+129.146.242.24,2053,TRUE,US:LAX,North America,Los Angeles,237,4.64
+132.226.31.178,443,TRUE,US:LAX,North America,Los Angeles,226,4.49
+129.146.47.72,443,TRUE,US:LAX,North America,Los Angeles,320,4.43
+129.146.168.102,443,TRUE,US:LAX,North America,Los Angeles,264,4.41
+129.146.134.77,443,TRUE,US:LAX,North America,Los Angeles,304,4.37
+158.101.24.17,443,TRUE,US:LAX,North America,Los Angeles,424,4.26
+129.153.119.97,443,TRUE,US:LAX,North America,Los Angeles,388,1.18
+129.153.126.67,443,TRUE,US:LAX,North America,Los Angeles,332,0.49
+129.146.240.62,443,TRUE,US:LAX,North America,Los Angeles,236,0
+158.101.15.48,443,TRUE,US:LAX,North America,Los Angeles,385,0
 164.152.26.70,2086,TRUE,US:ORD,North America,Chicago,275 ms,3241 kB/s
 35.167.93.200,443,TRUE,US:PDX,North America,Portland,224 ms,3241 kB/s
 204.110.221.251,80,TRUE,US:SEA,North America,Seattle,203 ms,7608 kB/s
@@ -38,3 +56,17 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 68.233.127.163,8443,TRUE,US:SJC,North America,Toronto,275 ms,3241 kB/s
 40.233.70.7,8443,TRUE,US:SJC,North America,Toronto,220 ms,4767 kB/s
 140.238.158.238,8080,TRUE,US:SJC,North America,Toronto,316,3.97
+146.235.211.70,2082,TRUE,US:SJC,North America,San Jose,175 ms,4408 kB/s
+146.235.211.70,2083,TRUE,US:SJC,North America,San Jose,177 ms,3410 kB/s
+13.88.29.102,443,TRUE,US:SJC,North America,San Jose,394,4.11
+152.67.249.123,443,TRUE,US:SJC,North America,San Jose,238,6.53
+129.159.47.255,443,TRUE,US:SJC,North America,San Jose,217,4.82
+155.248.202.141,443,TRUE,US:SJC,North America,San Jose,348,4.76
+129.159.34.122,443,TRUE,US:SJC,North America,San Jose,190,4.73
+152.70.123.60,443,TRUE,US:SJC,North America,San Jose,266,4.68
+146.235.219.98,443,TRUE,US:SJC,North America,San Jose,275,4.62
+152.70.112.158,443,TRUE,US:SJC,North America,San Jose,176,4.59
+152.67.231.219,443,TRUE,US:SJC,North America,San Jose,277,4.42
+138.2.237.246,443,TRUE,US:SJC,North America,San Jose,351,3.84
+146.235.211.70,2083,TRUE,US:SJC,North America,San Jose,233,2.52
+146.235.211.70,2082,TRUE,US:SJC,North America,San Jose,175,2.23
