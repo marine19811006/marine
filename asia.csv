@@ -393,6 +393,14 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 137.220.150.20,587,TRUE,SG@4,Asia Pacific,Singapore,97,0.11
 154.17.225.138,59430,TRUE,SG@5,Asia Pacific,Singapore,245,8.56
 47.76.78.66,60000,TRUE,SG@6,Asia Pacific,Singapore,65,1.49
+14.119.112.72,28279,TRUE,SG@7,Asia Pacific,Singapore,364,23.21
+103.30.78.45,7777,TRUE,SG@8,Asia Pacific,Singapore,292,19.86
+183.236.51.57,28994,TRUE,SG@9,Asia Pacific,Singapore,444,16.42
+183.236.51.57,31617,TRUE,SG@10,Asia Pacific,Singapore,493,5.62
+18.136.123.199,31443,TRUE,SG@11,Asia Pacific,Singapore,690,3.75
+47.243.95.157,11007,TRUE,SG@12,Asia Pacific,Singapore,823,2.73
+47.245.91.197,9000,TRUE,SG@13,Asia Pacific,Singapore,590,2.49
+103.99.11.15,50009,TRUE,SG@14,Asia Pacific,Singapore,465,2.08
 61.220.128.223,81,TRUE,TW@1,Asia Pacific,Taipei,94,4.81
 122.116.86.104,81,TRUE,TW@2,Asia Pacific,Taipei,93,1.54
 59.126.189.162,10332,TRUE,TW@3,Asia Pacific,Taipei,98,0.69
