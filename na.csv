@@ -1,7 +1,4 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-154.197.80.159,2083,TRUE,US@1,US,North America,136,25.36
-77.37.33.42,2053,TRUE,US@2,US,North America,271,23.92
-27.50.48.133,2096,TRUE,US@3,US,North America,152,23.18
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
 108.162.198.4,443,TRUE,US@4,US,North America,158,22.93
 162.159.60.86,443,TRUE,US@5,US,North America,148,22.87
 23.227.60.233,2087,TRUE,US@6,US,North America,149,22.58
