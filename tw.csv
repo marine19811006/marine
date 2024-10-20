@@ -1,13 +1,32 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-108.165.145.187,12222,TRUE,TW@5,TW,Asia Pacific,537,5.35
-85.237.207.79,31121,TRUE,TW@6,TW,Asia Pacific,990,5.34
-61.220.128.223,81,TRUE,TW@7,Asia Pacific,Taipei,94,4.81
-210.16.122.112,2053,TRUE,TW@8,TW,Asia Pacific,698,2.3
-220.135.202.250,81,TRUE,TW@9,Asia Pacific,Taipei,88,1.94
-141.11.86.109,8080,TRUE,TW@10,TW,Asia Pacific,573,1.94
-188.253.6.210,443,TRUE,TW@11,TW,Asia Pacific,548,1.57
-122.116.86.104,81,TRUE,TW@12,Asia Pacific,Taipei,93,1.54
-37.128.253.213,8443,TRUE,TW@13,Asia Pacific,Taipei,231,1.44
-118.163.93.53,81,TRUE,TW@14,Asia Pacific,Taipei,86,1.21
-59.126.189.162,10332,TRUE,TW@15,Asia Pacific,Taipei,98,0.69
-37.128.253.213,2053,TRUE,TW@16,Asia Pacific,Taipei,228,0.42
+IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+85.237.207.79,31177,TRUE,TW:TPE1,TW,Asia Pacific,Taipei,198100,WAPAC LTD,168,20.26
+203.69.248.40,12581,TRUE,TW:TPE2,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,92,18.62
+203.69.248.40,12106,TRUE,TW:TPE3,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,95,11.82
+85.237.207.79,31181,TRUE,TW:TPE4,TW,Asia Pacific,Taipei,198100,WAPAC LTD,163,10.86
+85.237.207.79,31121,TRUE,TW:TPE5,TW,Asia Pacific,Taipei,198100,WAPAC LTD,173,7.55
+220.134.107.199,12444,TRUE,TW:TPE6,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,100,7.54
+210.79.155.242,443,TRUE,TW:TPE7,TW,Asia Pacific,Taipei,38136,Akari Networks,200,7.11
+108.165.145.187,12222,TRUE,TW:TPE8,TW,Asia Pacific,Taipei,199707,ByteVirt LLC,171,6.67
+203.69.248.40,20208,TRUE,TW:TPE9,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,92,6.58
+203.69.248.40,16401,TRUE,TW:TPE10,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,92,6.28
+85.237.207.79,31144,TRUE,TW:TPE11,TW,Asia Pacific,Taipei,198100,WAPAC LTD,189,6
+83.147.13.199,443,TRUE,TW:TPE12,TW,Asia Pacific,Taipei,61112,AKILE LTD,180,5.18
+85.237.206.205,443,TRUE,TW:TPE13,TW,Asia Pacific,Taipei,198100,WAPAC LTD,197,4.01
+220.134.210.14,12161,TRUE,TW:TPE14,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,76,3.73
+203.69.248.40,12287,TRUE,TW:TPE15,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,98,3.57
+203.69.248.40,18264,TRUE,TW:TPE16,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,90,3.55
+220.135.202.250,81,TRUE,TW:TPE17,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,68,3.26
+122.116.86.104,81,TRUE,TW:TPE18,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,69,2.07
+123.204.135.223,20107,TRUE,TW:TPE19,TW,Asia Pacific,Taipei,4780,Digital United Inc,312,1.42
+141.11.86.109,8080,TRUE,TW:TPE20,TW,Asia Pacific,Taipei,61112,AKILE LTD,170,1.26
+188.253.6.210,443,TRUE,TW:TPE21,TW,Asia Pacific,Taipei,38136,Akari Networks,167,1.06
+122.116.105.15,10443,TRUE,TW:TPE22,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,64,0.85
+37.128.252.196,8080,TRUE,TW:TPE23,TW,Asia Pacific,Taipei,61112,AKILE LTD,167,0.76
+141.11.87.111,8080,TRUE,TW:TPE24,TW,Asia Pacific,Taipei,61112,AKILE LTD,170,0.7
+167.253.153.92,443,TRUE,TW:TPE25,TW,Asia Pacific,Taipei,46829,LAMHOSTING,279,0.64
+45.150.242.232,4445,TRUE,TW:TPE26,TW,Asia Pacific,Taipei,23961,Misaka Network Inc,63,0.64
+37.128.253.213,2053,TRUE,TW:TPE27,TW,Asia Pacific,Taipei,61112,AKILE LTD,157,0.55
+183.94.30.165,25425,TRUE,TW:TPE28,TW,Asia Pacific,Taipei,4837,CHINA UNICOM China169 Backbone,35,0.43
+103.137.63.205,31564,TRUE,TW:TPE29,TW,Asia Pacific,Taipei,131642,Pittqiao Network Information CoLtd,88,0.31
+123.241.113.153,15038,TRUE,TW:TPE30,TW,Asia Pacific,Taipei,131596,TBC,304,0.08
+219.68.47.224,12345,TRUE,TW:TPE31,TW,Asia Pacific,Taipei,9416,Hoshin Multimedia Center Inc,339,0.07
