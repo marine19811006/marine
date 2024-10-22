@@ -1,4 +1,4 @@
-IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍥藉,鍦板尯,鍩庡競,ASN,ORG,寤惰繜(ms),閫熷害(MB/s)
 183.236.51.57,27638,TRUE,HK:HKG1,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",38,42.8
 183.236.51.57,25688,TRUE,HK:HKG2,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",41,40.68
 183.236.51.57,25904,TRUE,HK:HKG3,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",41,39.79
@@ -279,34 +279,3 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 119.8.238.73,81,TRUE,HK:HKG278,HK,Asia Pacific,Hong Kong,136907,HUAWEI CLOUDS,174,0.27
 154.83.17.232,443,TRUE,HK:HKG279,HK,Asia Pacific,Hong Kong,14624554,Fifth Dog Network Limited,39,0.27
 2.56.91.89,8443,TRUE,HK:HKG280,HK,Asia Pacific,Hong Kong,142113,eServer,360,0.26
-172.67.36.182,8443,TRUE,HK@HKG1,,Asia Pacific,Hong Kong,,,119 ms,8
-172.67.38.96,8443,TRUE,HK@HKG2,,Asia Pacific,Hong Kong,,,121 ms,8
-104.17.132.27,8443,TRUE,HK@HKG3,,Asia Pacific,Hong Kong,,,122 ms,8
-172.67.29.249,8443,TRUE,HK@HKG4,,Asia Pacific,Hong Kong,,,123 ms,8
-172.67.43.243,8443,TRUE,HK@HKG5,,Asia Pacific,Hong Kong,,,124 ms,8
-104.22.61.39,8443,TRUE,HK@HKG6,,Asia Pacific,Hong Kong,,,124 ms,8
-172.67.41.159,8443,TRUE,HK@HKG7,,Asia Pacific,Hong Kong,,,124 ms,8
-104.17.138.96,8443,TRUE,HK@HKG8,,Asia Pacific,Hong Kong,,,125 ms,8
-104.22.31.29,8443,TRUE,HK@HKG9,,Asia Pacific,Hong Kong,,,125 ms,8
-104.17.129.138,8443,TRUE,HK@HKG10,,Asia Pacific,Hong Kong,,,125 ms,8
-104.17.68.247,8443,TRUE,HK@HKG11,,Asia Pacific,Hong Kong,,,125 ms,8
-104.18.41.66,8443,TRUE,HK@HKG12,,Asia Pacific,Hong Kong,,,125 ms,8
-104.22.30.192,8443,TRUE,HK@HKG13,,Asia Pacific,Hong Kong,,,126 ms,8
-104.17.69.92,8443,TRUE,HK@HKG14,,Asia Pacific,Hong Kong,,,126 ms,8
-104.17.72.103,8443,TRUE,HK@HKG15,,Asia Pacific,Hong Kong,,,126 ms,8
-172.67.21.239,8443,TRUE,HK@HKG16,,Asia Pacific,Hong Kong,,,126 ms,8
-104.18.26.182,8443,TRUE,HK@HKG17,,Asia Pacific,Hong Kong,,,126 ms,8
-104.22.53.171,8443,TRUE,HK@HKG18,,Asia Pacific,Hong Kong,,,127 ms,8
-172.67.44.0,8443,TRUE,HK@HKG19,,Asia Pacific,Hong Kong,,,128 ms,8
-104.16.214.78,8443,TRUE,HK@HKG20,,Asia Pacific,Hong Kong,,,128 ms,8
-172.67.47.49,8443,TRUE,HK@HKG21,,Asia Pacific,Hong Kong,,,129 ms,8
-104.22.58.205,8443,TRUE,HK@HKG22,,Asia Pacific,Hong Kong,,,129 ms,8
-172.67.20.191,8443,TRUE,HK@HKG23,,Asia Pacific,Hong Kong,,,130 ms,8
-104.17.143.88,8443,TRUE,HK@HKG24,,Asia Pacific,Hong Kong,,,131 ms,8
-104.16.212.244,8443,TRUE,HK@HKG25,,Asia Pacific,Hong Kong,,,131 ms,8
-104.16.34.191,8443,TRUE,HK@HKG26,,Asia Pacific,Hong Kong,,,131 ms,8
-104.17.75.203,8443,TRUE,HK@HKG27,,Asia Pacific,Hong Kong,,,134 ms,8
-104.16.213.200,8443,TRUE,HK@HKG28,,Asia Pacific,Hong Kong,,,135 ms,8
-104.16.42.143,8443,TRUE,HK@HKG29,,Asia Pacific,Hong Kong,,,136 ms,8
-104.16.38.237,8443,TRUE,HK@HKG30,,Asia Pacific,Hong Kong,,,136 ms,8
-104.22.21.228,8443,TRUE,HK@HKG31,,Asia Pacific,Hong Kong,,,136 ms,8
