@@ -1,281 +1,259 @@
-IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍥藉,鍦板尯,鍩庡競,ASN,ORG,寤惰繜(ms),閫熷害(MB/s)
+IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 183.236.51.57,27638,TRUE,HK:HKG1,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",38,42.8
 183.236.51.57,25688,TRUE,HK:HKG2,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",41,40.68
-183.236.51.57,25904,TRUE,HK:HKG3,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",41,39.79
-183.236.51.57,25982,TRUE,HK:HKG4,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",46,39.77
-183.236.51.57,25795,TRUE,HK:HKG5,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",43,39.05
-183.236.51.16,10626,TRUE,HK:HKG6,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",38,35.62
-183.236.51.57,27668,TRUE,HK:HKG7,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",41,35.18
-183.236.51.16,11418,TRUE,HK:HKG8,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",48,34.51
-183.236.51.57,26909,TRUE,HK:HKG9,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",35,34.38
-14.119.112.72,28741,TRUE,HK:HKG10,HK,Asia Pacific,Hong Kong,4134,Chinanet,31,33.12
-183.236.51.57,59310,TRUE,HK:HKG11,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",41,33.01
-183.236.51.16,11690,TRUE,HK:HKG12,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",39,32.47
-103.235.18.163,12317,TRUE,HK:HKG13,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,40,31.26
-14.119.112.72,27850,TRUE,HK:HKG14,HK,Asia Pacific,Hong Kong,4134,Chinanet,32,30.71
-14.119.112.77,13785,TRUE,HK:HKG15,HK,Asia Pacific,Hong Kong,4134,Chinanet,36,29.98
-163.177.58.169,25990,TRUE,HK:HKG16,HK,Asia Pacific,Hong Kong,135061,China Unicom Guangdong IP network,38,27.36
-183.236.51.57,27586,TRUE,HK:HKG17,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",37,26.6
-163.177.58.169,25286,TRUE,HK:HKG18,HK,Asia Pacific,Hong Kong,135061,China Unicom Guangdong IP network,39,26.18
-183.236.51.57,29211,TRUE,HK:HKG19,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",39,25.82
-163.177.58.169,25717,TRUE,HK:HKG20,HK,Asia Pacific,Hong Kong,135061,China Unicom Guangdong IP network,45,24.85
-183.236.51.57,28493,TRUE,HK:HKG21,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",42,21.62
-8.217.206.52,31458,TRUE,HK:HKG22,HK,Asia Pacific,Hong Kong,399044,HGC Global Communications Limited,36,21.319
-183.94.30.165,27267,TRUE,HK:HKG23,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,20,21.29
-183.236.51.57,30578,TRUE,HK:HKG24,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",35,21.05
-183.232.159.52,7000,TRUE,HK:HKG25,HK,Asia Pacific,Hong Kong,56040,China Mobile communications corporation,45,18.66
-40.83.122.22,2053,TRUE,HK:HKG26,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,116,16.92
-183.236.51.57,25504,TRUE,HK:HKG27,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",35,16.62
-14.119.112.77,13786,TRUE,HK:HKG28,HK,Asia Pacific,Hong Kong,4134,Chinanet,38,15.84
-183.236.51.57,27871,TRUE,HK:HKG29,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",44,15.3
-183.236.51.57,33355,TRUE,HK:HKG30,HK,Asia Pacific,Hong Kong,593914,Fifth Dog Network Limited,214,15.06
-18.166.149.73,18443,TRUE,HK:HKG31,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,102,11.51
-183.94.30.165,25328,TRUE,HK:HKG32,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,19,10.85
-202.81.237.150,9999,TRUE,HK:HKG33,HK,Asia Pacific,Hong Kong,4658,2012 Limited Netfront,186,10.19
-109.176.203.49,443,TRUE,HK:HKG34,HK,Asia Pacific,Hong Kong,63902,"SHINE TELECOM CO., LTD.",73,9.29
-47.242.20.210,12014,TRUE,HK:HKG35,HK,Asia Pacific,Hong Kong,788784,HGC Global Communications Limited,108,8.627
-211.177.110.182,10001,TRUE,HK:HKG36,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,73,8.37
-175.117.40.5,25647,TRUE,HK:HKG37,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,72,8.16
-218.238.105.140,27017,TRUE,HK:HKG38,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,76,8.08
-39.117.158.134,13666,TRUE,HK:HKG39,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,88,7.98
-39.114.137.173,10554,TRUE,HK:HKG40,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,93,7.92
-39.120.102.137,21299,TRUE,HK:HKG41,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,85,7.74
-218.37.77.96,12502,TRUE,HK:HKG42,HK,Asia Pacific,Hong Kong,17864,SK Broadband Co Ltd,83,7.7
-156.255.90.175,2053,TRUE,HK:HKG43,HK,Asia Pacific,Hong Kong,63888,DATAWING LIMITED,169,7.69
-1.253.134.202,37215,TRUE,HK:HKG44,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,102,7.64
-118.218.192.190,12390,TRUE,HK:HKG45,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,79,7.56
-58.231.164.221,33338,TRUE,HK:HKG46,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,103,7.52
-156.254.114.186,443,TRUE,HK:HKG47,HK,Asia Pacific,Hong Kong,63888,DATAWING LIMITED,69,7.46
-125.180.156.140,12126,TRUE,HK:HKG48,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,95,7.35
-40.83.122.22,8443,TRUE,HK:HKG49,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,107,7.14
-112.223.212.219,27016,TRUE,HK:HKG50,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,102,7.11
-110.12.93.33,18090,TRUE,HK:HKG51,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,79,7.05
-154.3.37.101,44393,TRUE,HK:HKG52,HK,Asia Pacific,Hong Kong,983654,Fifth Dog Network Limited,72,6.96
-154.3.37.101,44398,TRUE,HK:HKG53,HK,Asia Pacific,Hong Kong,1178524,HGC Global Communications Limited,77,6.96
-218.237.123.117,30007,TRUE,HK:HKG54,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,83,6.94
-180.71.205.236,26257,TRUE,HK:HKG55,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,88,6.82
-115.136.203.82,12511,TRUE,HK:HKG56,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,96,6.75
-211.177.246.100,10073,TRUE,HK:HKG57,HK,Asia Pacific,Hong Kong,1373394,Fifth Dog Network Limited,257,6.62
-61.101.222.207,12406,TRUE,HK:HKG58,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,85,6.48
-39.124.231.44,29999,TRUE,HK:HKG59,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,94,6.48
-123.215.77.200,10244,TRUE,HK:HKG60,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,82,6.42
-124.194.111.178,14000,TRUE,HK:HKG61,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,103,6.39
-49.161.218.196,11285,TRUE,HK:HKG62,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,137,6.37
-218.239.129.214,34567,TRUE,HK:HKG63,HK,Asia Pacific,Hong Kong,1568264,HGC Global Communications Limited,115,6.08
-83.147.14.92,9527,TRUE,HK:HKG64,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,185,5.89
-183.94.30.165,25669,TRUE,HK:HKG65,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,18,5.89
-115.140.58.54,16010,TRUE,HK:HKG66,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,135,5.87
-49.161.218.196,10244,TRUE,HK:HKG67,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,123,5.84
-182.213.86.207,30005,TRUE,HK:HKG68,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,108,5.6
-1.248.41.114,20201,TRUE,HK:HKG69,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,86,5.59
-115.140.58.54,12406,TRUE,HK:HKG70,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,115,5.59
-49.166.74.16,11300,TRUE,HK:HKG71,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,152,5.55
-58.176.229.127,35002,TRUE,HK:HKG72,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,78,5.5
-49.172.123.110,18086,TRUE,HK:HKG73,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,124,5.5
-154.3.37.101,44428,TRUE,HK:HKG74,HK,Asia Pacific,Hong Kong,1763134,Fifth Dog Network Limited,82,5.46
-211.58.245.49,10238,TRUE,HK:HKG75,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,97,5.41
-154.9.246.20,587,TRUE,HK:HKG76,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,46,5.4
-219.248.62.241,30019,TRUE,HK:HKG77,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,71,5.26
-112.222.129.170,12337,TRUE,HK:HKG78,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,122,5.25
-43.249.172.15,443,TRUE,HK:HKG79,HK,Asia Pacific,Hong Kong,138415,Yancy Limited,37,5.24
-38.106.23.161,8443,TRUE,HK:HKG80,HK,Asia Pacific,Hong Kong,55799,IPTELECOM ASIA,143,5.23
-116.121.213.174,26257,TRUE,HK:HKG81,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,103,5.23
-211.63.33.138,18023,TRUE,HK:HKG82,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,91,5.18
-49.167.61.27,21280,TRUE,HK:HKG83,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,145,5.15
-110.11.180.149,18765,TRUE,HK:HKG84,HK,Asia Pacific,Hong Kong,1958004,HGC Global Communications Limited,77,5.01
-49.170.189.50,10049,TRUE,HK:HKG85,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,128,4.99
-211.58.22.210,12509,TRUE,HK:HKG86,HK,Asia Pacific,Hong Kong,2152874,Fifth Dog Network Limited,94,4.98
-175.121.40.210,10101,TRUE,HK:HKG87,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,103,4.5
-129.226.167.17,55213,TRUE,HK:HKG88,HK,Asia Pacific,Hong Kong,2347744,HGC Global Communications Limited,135,4.5
-43.154.200.160,20047,TRUE,HK:HKG89,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",34,4.33
-183.94.30.165,36849,TRUE,HK:HKG90,HK,Asia Pacific,Hong Kong,2542614,Fifth Dog Network Limited,153,4.32
-43.132.180.125,42010,TRUE,HK:HKG91,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",35,4.29
-124.156.139.192,1901,TRUE,HK:HKG92,HK,Asia Pacific,Hong Kong,2737484,HGC Global Communications Limited,170,4.29
-43.129.160.101,54739,TRUE,HK:HKG93,HK,Asia Pacific,Hong Kong,2932354,Fifth Dog Network Limited,143,4.26
-101.32.181.47,3555,TRUE,HK:HKG94,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",40,4.22
-205.198.122.126,443,TRUE,HK:HKG95,HK,Asia Pacific,Hong Kong,398704,STACKSINC-BACKBONE,219,4.06
-211.58.22.210,10243,TRUE,HK:HKG96,HK,Asia Pacific,Hong Kong,3127224,HGC Global Communications Limited,94,4.06
-103.167.60.18,443,TRUE,HK:HKG97,HK,Asia Pacific,Hong Kong,398704,STACKSINC-BACKBONE,217,4.05
-156.254.114.104,443,TRUE,HK:HKG98,HK,Asia Pacific,Hong Kong,63888,DATAWING LIMITED,73,4.02
-101.32.39.249,2615,TRUE,HK:HKG99,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",38,3.9
-59.149.204.93,54321,TRUE,HK:HKG100,HK,Asia Pacific,Hong Kong,3322094,Fifth Dog Network Limited,264,3.9
-43.155.71.120,448,TRUE,HK:HKG101,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",35,3.89
-43.154.106.198,6696,TRUE,HK:HKG102,HK,Asia Pacific,Hong Kong,3516964,HGC Global Communications Limited,138,3.87
-213.183.53.33,443,TRUE,HK:HKG103,HK,Asia Pacific,Hong Kong,3711834,Fifth Dog Network Limited,609,3.86
-43.154.104.113,63121,TRUE,HK:HKG104,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",40,3.84
-47.242.153.89,443,TRUE,HK:HKG105,HK,Asia Pacific,Hong Kong,3906704,HGC Global Communications Limited,44,3.79
-124.156.149.27,18556,TRUE,HK:HKG106,HK,Asia Pacific,Hong Kong,4101574,Fifth Dog Network Limited,140,3.68
-183.94.30.165,26222,TRUE,HK:HKG107,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,32,3.59
-124.49.17.207,14523,TRUE,HK:HKG108,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,235,3.48
-138.19.151.193,10096,TRUE,HK:HKG109,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,44,3.29
-122.46.102.114,12126,TRUE,HK:HKG110,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,229,3.29
-154.3.37.101,44429,TRUE,HK:HKG111,HK,Asia Pacific,Hong Kong,4296444,HGC Global Communications Limited,70,3.28
-103.1.152.113,42112,TRUE,HK:HKG112,HK,Asia Pacific,Hong Kong,55799,IPTELECOM ASIA,42,3.24
-154.9.246.89,27053,TRUE,HK:HKG113,HK,Asia Pacific,Hong Kong,4491314,Fifth Dog Network Limited,180,3.24
-112.222.0.27,12333,TRUE,HK:HKG114,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,129,3.22
-206.237.28.8,443,TRUE,HK:HKG115,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,43,3.21
-206.237.28.87,8080,TRUE,HK:HKG116,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,51,3.15
-183.236.51.57,31621,TRUE,HK:HKG117,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",39,2.99
-223.122.88.214,37020,TRUE,HK:HKG118,HK,Asia Pacific,Hong Kong,137872,China Mobile Hong Kong Company Limited,76,2.84
-23.26.217.213,443,TRUE,HK:HKG119,HK,Asia Pacific,Hong Kong,51847,Nearoute Limited,208,2.8
-61.35.155.58,12379,TRUE,HK:HKG120,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,134,2.77
-112.222.0.27,16666,TRUE,HK:HKG121,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,115,2.68
-183.94.30.165,26242,TRUE,HK:HKG122,HK,Asia Pacific,Hong Kong,4686184,HGC Global Communications Limited,202,2.64
-138.19.151.193,10058,TRUE,HK:HKG123,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,48,2.62
-203.89.8.107,443,TRUE,HK:HKG124,HK,Asia Pacific,Hong Kong,4809,China Telecom Next Generation Carrier Network,29,2.62
-103.106.230.186,81,TRUE,HK:HKG125,HK,Asia Pacific,Hong Kong,4881054,Fifth Dog Network Limited,86,2.57
-138.19.151.193,12529,TRUE,HK:HKG126,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,54,2.54
-211.239.215.68,12489,TRUE,HK:HKG127,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,329,2.5
-118.140.166.215,10002,TRUE,HK:HKG128,HK,Asia Pacific,Hong Kong,5075924,HGC Global Communications Limited,239,2.445
-138.19.151.193,22705,TRUE,HK:HKG129,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,57,2.39
-110.15.252.211,17772,TRUE,HK:HKG130,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,81,2.35
-23.224.149.67,9443,TRUE,HK:HKG131,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,40,2.35
-183.178.22.246,36669,TRUE,HK:HKG132,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,46,2.34
-157.119.101.159,443,TRUE,HK:HKG133,HK,Asia Pacific,Hong Kong,5270794,Fifth Dog Network Limited,110,2.33
-211.239.215.68,12572,TRUE,HK:HKG134,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,290,2.28
-122.37.92.59,12107,TRUE,HK:HKG135,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,233,2.21
-183.94.30.165,26401,TRUE,HK:HKG136,HK,Asia Pacific,Hong Kong,5465664,HGC Global Communications Limited,156,2.21
-183.236.51.57,27057,TRUE,HK:HKG137,HK,Asia Pacific,Hong Kong,5660534,Fifth Dog Network Limited,43,2.21
-182.224.137.54,10018,TRUE,HK:HKG138,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,231,2.19
-61.100.201.73,12287,TRUE,HK:HKG139,HK,Asia Pacific,Hong Kong,18310,SK Broadband Co Ltd,104,2.18
-218.49.165.151,26257,TRUE,HK:HKG140,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,158,2.17
-141.11.148.62,443,TRUE,HK:HKG141,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,320,2.15
-183.236.51.16,13859,TRUE,HK:HKG142,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",40,2.09
-203.173.96.72,10477,TRUE,HK:HKG143,HK,Asia Pacific,Hong Kong,38676,flexnetworks,198,2.05
-211.239.215.68,38080,TRUE,HK:HKG144,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,214,2.03
-211.239.215.68,27015,TRUE,HK:HKG145,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,308,2.02
-203.173.96.72,12500,TRUE,HK:HKG146,HK,Asia Pacific,Hong Kong,38676,flexnetworks,199,2.02
-122.40.58.78,12230,TRUE,HK:HKG147,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,223,2.01
-82.152.164.142,443,TRUE,HK:HKG148,HK,Asia Pacific,Hong Kong,202662,Hytron Network Services Limited,289,2
-111.65.176.92,10243,TRUE,HK:HKG149,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,94,1.99
-154.9.246.89,27043,TRUE,HK:HKG150,HK,Asia Pacific,Hong Kong,5855404,HGC Global Communications Limited,41,1.95
-138.19.151.193,34500,TRUE,HK:HKG151,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,50,1.92
-203.173.96.72,17020,TRUE,HK:HKG152,HK,Asia Pacific,Hong Kong,38676,flexnetworks,201,1.91
-211.239.141.169,12106,TRUE,HK:HKG153,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,211,1.91
-47.242.74.110,443,TRUE,HK:HKG154,HK,Asia Pacific,Hong Kong,6050274,Fifth Dog Network Limited,142,1.9
-107.150.119.240,587,TRUE,HK:HKG155,HK,Asia Pacific,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,72,1.89
-180.68.64.242,12230,TRUE,HK:HKG156,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,89,1.88
-154.9.246.89,27050,TRUE,HK:HKG157,HK,Asia Pacific,Hong Kong,6245144,HGC Global Communications Limited,44,1.85
-211.239.215.68,12332,TRUE,HK:HKG158,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,322,1.84
-138.19.151.193,12285,TRUE,HK:HKG159,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,60,1.78
-154.9.246.89,27013,TRUE,HK:HKG160,HK,Asia Pacific,Hong Kong,6440014,Fifth Dog Network Limited,172,1.78
-108.162.198.222,443,TRUE,HK:HKG161,HK,Asia Pacific,Hong Kong,6634884,HGC Global Communications Limited,552,1.75
-163.177.58.169,47313,TRUE,HK:HKG162,HK,Asia Pacific,Hong Kong,135061,China Unicom Guangdong IP network,42,1.69
-114.205.18.189,25647,TRUE,HK:HKG163,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,89,1.67
-1.235.176.215,20880,TRUE,HK:HKG164,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,79,1.64
-195.54.171.57,8443,TRUE,HK:HKG165,HK,Asia Pacific,Hong Kong,9009,M247 Europe SRL,203,1.6
-221.141.80.241,20053,TRUE,HK:HKG166,HK,Asia Pacific,Hong Kong,6829754,Fifth Dog Network Limited,294,1.58
-49.246.25.199,16831,TRUE,HK:HKG167,HK,Asia Pacific,Hong Kong,7024624,HGC Global Communications Limited,447,1.58
-211.239.215.68,13579,TRUE,HK:HKG168,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,198,1.54
-138.19.151.193,12587,TRUE,HK:HKG169,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,58,1.51
-43.229.154.140,4445,TRUE,HK:HKG170,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,36,1.44
-23.224.149.69,9443,TRUE,HK:HKG171,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,38,1.44
-58.228.102.17,10005,TRUE,HK:HKG172,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,111,1.36
-183.236.51.57,32878,TRUE,HK:HKG173,HK,Asia Pacific,Hong Kong,7219494,Fifth Dog Network Limited,41,1.33
-101.32.10.244,10457,TRUE,HK:HKG174,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",36,1.31
-138.19.151.193,12502,TRUE,HK:HKG175,HK,Asia Pacific,Hong Kong,7414364,HGC Global Communications Limited,114,1.28
-123.202.145.26,443,TRUE,HK:HKG176,HK,Asia Pacific,Hong Kong,7609234,Fifth Dog Network Limited,15,1.26
-116.204.210.10,443,TRUE,HK:HKG177,HK,Asia Pacific,Hong Kong,132883,TOPWAY GLOBAL LIMITED,38,1.25
-211.239.141.169,10936,TRUE,HK:HKG178,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,205,1.24
-152.32.168.249,443,TRUE,HK:HKG179,HK,Asia Pacific,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,123,1.24
-138.19.151.193,11122,TRUE,HK:HKG180,HK,Asia Pacific,Hong Kong,7804104,HGC Global Communications Limited,112,1.24
-183.236.51.57,25600,TRUE,HK:HKG181,HK,Asia Pacific,Hong Kong,7998974,Fifth Dog Network Limited,41,1.24
-211.239.141.169,12119,TRUE,HK:HKG182,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,211,1.23
-58.233.176.176,12444,TRUE,HK:HKG183,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,92,1.22
-138.19.151.193,12153,TRUE,HK:HKG184,HK,Asia Pacific,Hong Kong,8193844,HGC Global Communications Limited,111,1.22
-49.246.44.215,18031,TRUE,HK:HKG185,HK,Asia Pacific,Hong Kong,10054,CMB Kwangju Broadcasting,190,1.2
-138.19.151.193,21300,TRUE,HK:HKG186,HK,Asia Pacific,Hong Kong,8388714,Fifth Dog Network Limited,109,1.2
-138.19.151.193,16095,TRUE,HK:HKG187,HK,Asia Pacific,Hong Kong,8583584,HGC Global Communications Limited,112,1.18
-154.3.37.101,44424,TRUE,HK:HKG188,HK,Asia Pacific,Hong Kong,8778454,Fifth Dog Network Limited,74,1.18
-138.19.151.193,12401,TRUE,HK:HKG189,HK,Asia Pacific,Hong Kong,8973324,HGC Global Communications Limited,111,1.16
-183.94.30.165,29312,TRUE,HK:HKG190,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,19,1.15
-1.246.226.166,12399,TRUE,HK:HKG191,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,80,1.14
-138.19.151.193,12539,TRUE,HK:HKG192,HK,Asia Pacific,Hong Kong,9168194,Fifth Dog Network Limited,110,1.14
-8.218.249.165,587,TRUE,HK:HKG193,HK,Asia Pacific,Hong Kong,9363064,HGC Global Communications Limited,59,1.14
-203.9.150.125,20002,TRUE,HK:HKG194,HK,Asia Pacific,Hong Kong,133752,Leaseweb Asia Pacific pte. ltd.,301,1.13
-157.254.22.77,8443,TRUE,HK:HKG195,HK,Asia Pacific,Hong Kong,202662,Hytron Network Services Limited,301,1.13
-188.253.112.218,443,TRUE,HK:HKG196,HK,Asia Pacific,Hong Kong,38136,Akari Networks,286,1.13
-27.0.232.205,443,TRUE,HK:HKG197,HK,Asia Pacific,Hong Kong,133752,Leaseweb Asia Pacific pte. ltd.,306,1.13
-138.19.151.193,12257,TRUE,HK:HKG198,HK,Asia Pacific,Hong Kong,9557934,Fifth Dog Network Limited,111,1.12
-82.152.163.227,443,TRUE,HK:HKG199,HK,Asia Pacific,Hong Kong,202662,Hytron Network Services Limited,292,1.11
-138.19.151.193,26004,TRUE,HK:HKG200,HK,Asia Pacific,Hong Kong,9752804,HGC Global Communications Limited,111,1.1
-1.235.176.215,12500,TRUE,HK:HKG201,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,97,1.09
-183.94.30.165,46854,TRUE,HK:HKG202,HK,Asia Pacific,Hong Kong,9947674,Fifth Dog Network Limited,473,1.09
-39.117.51.21,10480,TRUE,HK:HKG203,HK,Asia Pacific,Hong Kong,10142544,HGC Global Communications Limited,335,1.09
-113.199.23.82,16104,TRUE,HK:HKG204,HK,Asia Pacific,Hong Kong,17608,ABN,233,1.08
-190.92.233.69,7443,TRUE,HK:HKG205,HK,Asia Pacific,Hong Kong,136907,HUAWEI CLOUDS,165,1.08
-138.19.151.193,10566,TRUE,HK:HKG206,HK,Asia Pacific,Hong Kong,10337414,Fifth Dog Network Limited,112,1.08
-154.9.246.89,30387,TRUE,HK:HKG207,HK,Asia Pacific,Hong Kong,10532284,HGC Global Communications Limited,55,1.07
-185.74.222.252,8443,TRUE,HK:HKG208,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,324,1.06
-185.74.222.61,2053,TRUE,HK:HKG209,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,353,1.06
-194.246.114.73,8443,TRUE,HK:HKG210,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,329,1.06
-194.246.114.19,2053,TRUE,HK:HKG211,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,348,1.06
-38.47.204.86,443,TRUE,HK:HKG212,HK,Asia Pacific,Hong Kong,140227,"Hong Kong Communications International Co., Limited",41,1.05
-194.246.114.19,8443,TRUE,HK:HKG213,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,334,1.04
-61.92.139.201,32795,TRUE,HK:HKG214,HK,Asia Pacific,Hong Kong,10727154,Fifth Dog Network Limited,17,1.04
-211.239.215.68,12402,TRUE,HK:HKG215,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,205,1.03
-154.93.104.54,18888,TRUE,HK:HKG216,HK,Asia Pacific,Hong Kong,10922024,HGC Global Communications Limited,21,1.02
-101.32.206.215,3555,TRUE,HK:HKG217,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",42,1.01
-211.239.215.68,18029,TRUE,HK:HKG218,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,197,1.01
-103.159.207.168,2086,TRUE,HK:HKG219,HK,Asia Pacific,Hong Kong,31972,EMGINECONCEPT-01,279,1
-47.238.117.28,587,TRUE,HK:HKG220,HK,Asia Pacific,Hong Kong,11116894,Fifth Dog Network Limited,74,1
-109.176.203.61,443,TRUE,HK:HKG221,HK,Asia Pacific,Hong Kong,11311764,HGC Global Communications Limited,58,1
-211.239.141.169,12469,TRUE,HK:HKG222,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,213,0.99
-222.166.34.43,11300,TRUE,HK:HKG223,HK,Asia Pacific,Hong Kong,9908,HK Cable TV Ltd,69,0.98
-222.166.34.43,12137,TRUE,HK:HKG224,HK,Asia Pacific,Hong Kong,9908,HK Cable TV Ltd,60,0.95
-91.229.132.49,8080,TRUE,HK:HKG225,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,303,0.92
-23.224.149.68,9443,TRUE,HK:HKG226,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,39,0.87
-154.18.161.172,18443,TRUE,HK:HKG227,HK,Asia Pacific,Hong Kong,202662,Hytron Network Services Limited,292,0.87
-194.246.114.73,2053,TRUE,HK:HKG228,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,319,0.83
-156.234.17.144,443,TRUE,HK:HKG229,HK,Asia Pacific,Hong Kong,138415,Yancy Limited,37,0.82
-115.138.57.64,12159,TRUE,HK:HKG230,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,140,0.81
-154.9.246.89,27061,TRUE,HK:HKG231,HK,Asia Pacific,Hong Kong,11506634,Fifth Dog Network Limited,53,0.79
-154.16.183.59,443,TRUE,HK:HKG232,HK,Asia Pacific,Hong Kong,198100,WAP.AC LTD,287,0.78
-138.19.151.193,16831,TRUE,HK:HKG233,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,59,0.76
-45.39.199.138,443,TRUE,HK:HKG234,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,299,0.72
-185.74.222.252,2053,TRUE,HK:HKG235,HK,Asia Pacific,Hong Kong,11701504,HGC Global Communications Limited,323,0.7
-223.16.138.113,10201,TRUE,HK:HKG236,HK,Asia Pacific,Hong Kong,11896374,Fifth Dog Network Limited,301,0.69
-113.199.23.82,10002,TRUE,HK:HKG237,HK,Asia Pacific,Hong Kong,17608,ABN,247,0.68
-45.92.219.179,10081,TRUE,HK:HKG238,HK,Asia Pacific,Hong Kong,204174,Fifth Dog Network Limited,311,0.67
-38.207.154.50,20070,TRUE,HK:HKG239,HK,Asia Pacific,Hong Kong,138997,Eons Data Communications Limited,307,0.64
-43.132.244.52,21415,TRUE,HK:HKG240,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",34,0.62
-113.199.14.37,11371,TRUE,HK:HKG241,HK,Asia Pacific,Hong Kong,12091244,HGC Global Communications Limited,255,0.61
-193.233.193.12,2053,TRUE,HK:HKG242,HK,Asia Pacific,Hong Kong,135330,ADCDATA.COM,351,0.59
-113.30.6.86,10243,TRUE,HK:HKG243,HK,Asia Pacific,Hong Kong,9971,SK Broadband Co Ltd,97,0.59
-103.21.220.248,29608,TRUE,HK:HKG244,HK,Asia Pacific,Hong Kong,133752,Leaseweb Asia Pacific pte. ltd.,304,0.59
-154.16.183.94,8443,TRUE,HK:HKG245,HK,Asia Pacific,Hong Kong,12286114,Fifth Dog Network Limited,290,0.59
-122.2.198.74,443,TRUE,HK:HKG246,HK,Asia Pacific,Hong Kong,9299,Philippine Long Distance Telephone Company,331,0.58
-91.229.133.61,443,TRUE,HK:HKG247,HK,Asia Pacific,Hong Kong,12480984,HGC Global Communications Limited,280,0.57
-167.253.158.63,2053,TRUE,HK:HKG248,HK,Asia Pacific,Hong Kong,59253,Leaseweb Asia Pacific pte. ltd.,343,0.55
-167.253.158.63,8443,TRUE,HK:HKG249,HK,Asia Pacific,Hong Kong,59253,Leaseweb Asia Pacific pte. ltd.,329,0.54
-46.8.78.9,2053,TRUE,HK:HKG250,HK,Asia Pacific,Hong Kong,0,,348,0.53
-185.74.222.219,2053,TRUE,HK:HKG251,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,354,0.53
-95.182.100.92,2053,TRUE,HK:HKG252,HK,Asia Pacific,Hong Kong,12675854,Fifth Dog Network Limited,330,0.53
-154.21.202.107,4433,TRUE,HK:HKG253,HK,Asia Pacific,Hong Kong,12870724,HGC Global Communications Limited,40,0.53
-194.246.114.33,2053,TRUE,HK:HKG254,HK,Asia Pacific,Hong Kong,13065594,Fifth Dog Network Limited,345,0.53
-185.74.222.219,8443,TRUE,HK:HKG255,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,352,0.52
-46.8.78.9,8443,TRUE,HK:HKG256,HK,Asia Pacific,Hong Kong,0,,348,0.52
-154.197.80.118,2096,TRUE,HK:HKG257,HK,Asia Pacific,Hong Kong,13260464,HGC Global Communications Limited,536,0.52
-74.119.193.237,2053,TRUE,HK:HKG258,HK,Asia Pacific,Hong Kong,13455334,Fifth Dog Network Limited,353,0.52
-95.182.100.92,8443,TRUE,HK:HKG259,HK,Asia Pacific,Hong Kong,13650204,HGC Global Communications Limited,339,0.48
-193.233.193.12,8443,TRUE,HK:HKG260,HK,Asia Pacific,Hong Kong,135330,ADCDATA.COM,333,0.45
-141.11.77.158,27312,TRUE,HK:HKG261,HK,Asia Pacific,Hong Kong,13845074,Fifth Dog Network Limited,330,0.45
-141.11.217.127,443,TRUE,HK:HKG262,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,311,0.38
-61.245.10.43,443,TRUE,HK:HKG263,HK,Asia Pacific,Hong Kong,14039944,HGC Global Communications Limited,394,0.38
-183.236.51.57,32569,TRUE,HK:HKG264,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",41,0.36
-43.135.71.102,11443,TRUE,HK:HKG265,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",41,0.36
-58.176.95.46,443,TRUE,HK:HKG266,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,54,0.35
-106.75.178.154,8969,TRUE,HK:HKG267,HK,Asia Pacific,Hong Kong,58466,CHINANET Guangdong province network,39,0.35
-194.156.99.186,443,TRUE,HK:HKG268,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,323,0.32
-58.232.221.46,443,TRUE,HK:HKG269,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,33,0.32
-38.207.173.112,61234,TRUE,HK:HKG270,HK,Asia Pacific,Hong Kong,967,VMISS,207,0.32
-204.194.66.183,443,TRUE,HK:HKG271,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,43,0.3
-45.123.188.137,2053,TRUE,HK:HKG272,HK,Asia Pacific,Hong Kong,133398,Tele Asia Limited,342,0.29
-124.216.13.203,16068,TRUE,HK:HKG273,HK,Asia Pacific,Hong Kong,45361,Ulsan Jung-Ang Broadcasting Network,152,0.29
-103.41.65.161,587,TRUE,HK:HKG274,HK,Asia Pacific,Hong Kong,14234814,Fifth Dog Network Limited,39,0.29
-45.158.230.210,443,TRUE,HK:HKG275,HK,Asia Pacific,Hong Kong,14429684,HGC Global Communications Limited,41,0.29
-154.16.10.34,8080,TRUE,HK:HKG276,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,295,0.27
-74.119.193.94,2053,TRUE,HK:HKG277,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,325,0.27
-119.8.238.73,81,TRUE,HK:HKG278,HK,Asia Pacific,Hong Kong,136907,HUAWEI CLOUDS,174,0.27
-154.83.17.232,443,TRUE,HK:HKG279,HK,Asia Pacific,Hong Kong,14624554,Fifth Dog Network Limited,39,0.27
-2.56.91.89,8443,TRUE,HK:HKG280,HK,Asia Pacific,Hong Kong,142113,eServer,360,0.26
+183.236.51.57,25982,TRUE,HK:HKG3,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",46,39.77
+183.236.51.57,25795,TRUE,HK:HKG4,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",43,39.05
+183.236.51.57,27668,TRUE,HK:HKG5,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",41,35.18
+183.236.51.57,59310,TRUE,HK:HKG6,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",41,33.01
+103.235.18.163,12317,TRUE,HK:HKG7,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,40,31.26
+163.177.58.169,25990,TRUE,HK:HKG8,HK,Asia Pacific,Hong Kong,135061,China Unicom Guangdong IP network,38,27.36
+183.236.51.57,27586,TRUE,HK:HKG9,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",37,26.6
+183.236.51.57,29211,TRUE,HK:HKG10,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",39,25.82
+183.236.51.57,28493,TRUE,HK:HKG11,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",42,21.62
+8.217.206.52,31458,TRUE,HK:HKG12,HK,Asia Pacific,Hong Kong,399044,HGC Global Communications Limited,36,21.319
+183.236.51.57,30578,TRUE,HK:HKG13,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",35,21.05
+183.236.51.57,25504,TRUE,HK:HKG14,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",35,16.62
+183.236.51.57,27871,TRUE,HK:HKG15,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",44,15.3
+183.236.51.57,33355,TRUE,HK:HKG16,HK,Asia Pacific,Hong Kong,593914,Fifth Dog Network Limited,214,15.06
+202.81.237.150,9999,TRUE,HK:HKG17,HK,Asia Pacific,Hong Kong,4658,2012 Limited Netfront,186,10.19
+47.242.20.210,12014,TRUE,HK:HKG18,HK,Asia Pacific,Hong Kong,788784,HGC Global Communications Limited,108,8.627
+175.117.40.5,25647,TRUE,HK:HKG19,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,72,8.16
+218.238.105.140,27017,TRUE,HK:HKG20,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,76,8.08
+39.117.158.134,13666,TRUE,HK:HKG21,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,88,7.98
+39.120.102.137,21299,TRUE,HK:HKG22,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,85,7.74
+218.37.77.96,12502,TRUE,HK:HKG23,HK,Asia Pacific,Hong Kong,17864,SK Broadband Co Ltd,83,7.7
+1.253.134.202,37215,TRUE,HK:HKG24,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,102,7.64
+118.218.192.190,12390,TRUE,HK:HKG25,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,79,7.56
+156.254.114.186,443,TRUE,HK:HKG26,HK,Asia Pacific,Hong Kong,63888,DATAWING LIMITED,69,7.46
+125.180.156.140,12126,TRUE,HK:HKG27,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,95,7.35
+112.223.212.219,27016,TRUE,HK:HKG28,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,102,7.11
+110.12.93.33,18090,TRUE,HK:HKG29,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,79,7.05
+154.3.37.101,44393,TRUE,HK:HKG30,HK,Asia Pacific,Hong Kong,983654,Fifth Dog Network Limited,72,6.96
+154.3.37.101,44398,TRUE,HK:HKG31,HK,Asia Pacific,Hong Kong,1178524,HGC Global Communications Limited,77,6.96
+218.237.123.117,30007,TRUE,HK:HKG32,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,83,6.94
+180.71.205.236,26257,TRUE,HK:HKG33,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,88,6.82
+115.136.203.82,12511,TRUE,HK:HKG34,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,96,6.75
+211.177.246.100,10073,TRUE,HK:HKG35,HK,Asia Pacific,Hong Kong,1373394,Fifth Dog Network Limited,257,6.62
+61.101.222.207,12406,TRUE,HK:HKG36,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,85,6.48
+39.124.231.44,29999,TRUE,HK:HKG37,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,94,6.48
+123.215.77.200,10244,TRUE,HK:HKG38,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,82,6.42
+124.194.111.178,14000,TRUE,HK:HKG39,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,103,6.39
+49.161.218.196,11285,TRUE,HK:HKG40,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,137,6.37
+218.239.129.214,34567,TRUE,HK:HKG41,HK,Asia Pacific,Hong Kong,1568264,HGC Global Communications Limited,115,6.08
+83.147.14.92,9527,TRUE,HK:HKG42,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,185,5.89
+183.94.30.165,25669,TRUE,HK:HKG43,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,18,5.89
+115.140.58.54,16010,TRUE,HK:HKG44,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,135,5.87
+49.161.218.196,10244,TRUE,HK:HKG45,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,123,5.84
+182.213.86.207,30005,TRUE,HK:HKG46,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,108,5.6
+1.248.41.114,20201,TRUE,HK:HKG47,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,86,5.59
+115.140.58.54,12406,TRUE,HK:HKG48,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,115,5.59
+49.166.74.16,11300,TRUE,HK:HKG49,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,152,5.55
+58.176.229.127,35002,TRUE,HK:HKG50,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,78,5.5
+49.172.123.110,18086,TRUE,HK:HKG51,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,124,5.5
+154.3.37.101,44428,TRUE,HK:HKG52,HK,Asia Pacific,Hong Kong,1763134,Fifth Dog Network Limited,82,5.46
+211.58.245.49,10238,TRUE,HK:HKG53,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,97,5.41
+154.9.246.20,587,TRUE,HK:HKG54,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,46,5.4
+219.248.62.241,30019,TRUE,HK:HKG55,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,71,5.26
+112.222.129.170,12337,TRUE,HK:HKG56,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,122,5.25
+43.249.172.15,443,TRUE,HK:HKG57,HK,Asia Pacific,Hong Kong,138415,Yancy Limited,37,5.24
+38.106.23.161,8443,TRUE,HK:HKG58,HK,Asia Pacific,Hong Kong,55799,IPTELECOM ASIA,143,5.23
+116.121.213.174,26257,TRUE,HK:HKG59,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,103,5.23
+211.63.33.138,18023,TRUE,HK:HKG60,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,91,5.18
+49.167.61.27,21280,TRUE,HK:HKG61,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,145,5.15
+110.11.180.149,18765,TRUE,HK:HKG62,HK,Asia Pacific,Hong Kong,1958004,HGC Global Communications Limited,77,5.01
+49.170.189.50,10049,TRUE,HK:HKG63,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,128,4.99
+211.58.22.210,12509,TRUE,HK:HKG64,HK,Asia Pacific,Hong Kong,2152874,Fifth Dog Network Limited,94,4.98
+175.121.40.210,10101,TRUE,HK:HKG65,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,103,4.5
+129.226.167.17,55213,TRUE,HK:HKG66,HK,Asia Pacific,Hong Kong,2347744,HGC Global Communications Limited,135,4.5
+43.154.200.160,20047,TRUE,HK:HKG67,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",34,4.33
+183.94.30.165,36849,TRUE,HK:HKG68,HK,Asia Pacific,Hong Kong,2542614,Fifth Dog Network Limited,153,4.32
+43.132.180.125,42010,TRUE,HK:HKG69,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",35,4.29
+124.156.139.192,1901,TRUE,HK:HKG70,HK,Asia Pacific,Hong Kong,2737484,HGC Global Communications Limited,170,4.29
+43.129.160.101,54739,TRUE,HK:HKG71,HK,Asia Pacific,Hong Kong,2932354,Fifth Dog Network Limited,143,4.26
+101.32.181.47,3555,TRUE,HK:HKG72,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",40,4.22
+205.198.122.126,443,TRUE,HK:HKG73,HK,Asia Pacific,Hong Kong,398704,STACKSINC-BACKBONE,219,4.06
+211.58.22.210,10243,TRUE,HK:HKG74,HK,Asia Pacific,Hong Kong,3127224,HGC Global Communications Limited,94,4.06
+103.167.60.18,443,TRUE,HK:HKG75,HK,Asia Pacific,Hong Kong,398704,STACKSINC-BACKBONE,217,4.05
+156.254.114.104,443,TRUE,HK:HKG76,HK,Asia Pacific,Hong Kong,63888,DATAWING LIMITED,73,4.02
+101.32.39.249,2615,TRUE,HK:HKG77,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",38,3.9
+59.149.204.93,54321,TRUE,HK:HKG78,HK,Asia Pacific,Hong Kong,3322094,Fifth Dog Network Limited,264,3.9
+43.155.71.120,448,TRUE,HK:HKG79,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",35,3.89
+43.154.106.198,6696,TRUE,HK:HKG80,HK,Asia Pacific,Hong Kong,3516964,HGC Global Communications Limited,138,3.87
+213.183.53.33,443,TRUE,HK:HKG81,HK,Asia Pacific,Hong Kong,3711834,Fifth Dog Network Limited,609,3.86
+43.154.104.113,63121,TRUE,HK:HKG82,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",40,3.84
+47.242.153.89,443,TRUE,HK:HKG83,HK,Asia Pacific,Hong Kong,3906704,HGC Global Communications Limited,44,3.79
+124.156.149.27,18556,TRUE,HK:HKG84,HK,Asia Pacific,Hong Kong,4101574,Fifth Dog Network Limited,140,3.68
+183.94.30.165,26222,TRUE,HK:HKG85,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,32,3.59
+124.49.17.207,14523,TRUE,HK:HKG86,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,235,3.48
+138.19.151.193,10096,TRUE,HK:HKG87,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,44,3.29
+122.46.102.114,12126,TRUE,HK:HKG88,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,229,3.29
+154.3.37.101,44429,TRUE,HK:HKG89,HK,Asia Pacific,Hong Kong,4296444,HGC Global Communications Limited,70,3.28
+103.1.152.113,42112,TRUE,HK:HKG90,HK,Asia Pacific,Hong Kong,55799,IPTELECOM ASIA,42,3.24
+154.9.246.89,27053,TRUE,HK:HKG91,HK,Asia Pacific,Hong Kong,4491314,Fifth Dog Network Limited,180,3.24
+112.222.0.27,12333,TRUE,HK:HKG92,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,129,3.22
+206.237.28.8,443,TRUE,HK:HKG93,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,43,3.21
+206.237.28.87,8080,TRUE,HK:HKG94,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,51,3.15
+183.236.51.57,31621,TRUE,HK:HKG95,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",39,2.99
+223.122.88.214,37020,TRUE,HK:HKG96,HK,Asia Pacific,Hong Kong,137872,China Mobile Hong Kong Company Limited,76,2.84
+23.26.217.213,443,TRUE,HK:HKG97,HK,Asia Pacific,Hong Kong,51847,Nearoute Limited,208,2.8
+61.35.155.58,12379,TRUE,HK:HKG98,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,134,2.77
+112.222.0.27,16666,TRUE,HK:HKG99,HK,Asia Pacific,Hong Kong,3786,LG DACOM Corporation,115,2.68
+183.94.30.165,26242,TRUE,HK:HKG100,HK,Asia Pacific,Hong Kong,4686184,HGC Global Communications Limited,202,2.64
+138.19.151.193,10058,TRUE,HK:HKG101,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,48,2.62
+203.89.8.107,443,TRUE,HK:HKG102,HK,Asia Pacific,Hong Kong,4809,China Telecom Next Generation Carrier Network,29,2.62
+103.106.230.186,81,TRUE,HK:HKG103,HK,Asia Pacific,Hong Kong,4881054,Fifth Dog Network Limited,86,2.57
+138.19.151.193,12529,TRUE,HK:HKG104,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,54,2.54
+211.239.215.68,12489,TRUE,HK:HKG105,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,329,2.5
+118.140.166.215,10002,TRUE,HK:HKG106,HK,Asia Pacific,Hong Kong,5075924,HGC Global Communications Limited,239,2.445
+138.19.151.193,22705,TRUE,HK:HKG107,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,57,2.39
+110.15.252.211,17772,TRUE,HK:HKG108,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,81,2.35
+23.224.149.67,9443,TRUE,HK:HKG109,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,40,2.35
+183.178.22.246,36669,TRUE,HK:HKG110,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,46,2.34
+157.119.101.159,443,TRUE,HK:HKG111,HK,Asia Pacific,Hong Kong,5270794,Fifth Dog Network Limited,110,2.33
+211.239.215.68,12572,TRUE,HK:HKG112,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,290,2.28
+122.37.92.59,12107,TRUE,HK:HKG113,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,233,2.21
+183.94.30.165,26401,TRUE,HK:HKG114,HK,Asia Pacific,Hong Kong,5465664,HGC Global Communications Limited,156,2.21
+183.236.51.57,27057,TRUE,HK:HKG115,HK,Asia Pacific,Hong Kong,5660534,Fifth Dog Network Limited,43,2.21
+182.224.137.54,10018,TRUE,HK:HKG116,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,231,2.19
+61.100.201.73,12287,TRUE,HK:HKG117,HK,Asia Pacific,Hong Kong,18310,SK Broadband Co Ltd,104,2.18
+218.49.165.151,26257,TRUE,HK:HKG118,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,158,2.17
+141.11.148.62,443,TRUE,HK:HKG119,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,320,2.15
+183.236.51.16,13859,TRUE,HK:HKG120,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",40,2.09
+203.173.96.72,10477,TRUE,HK:HKG121,HK,Asia Pacific,Hong Kong,38676,flexnetworks,198,2.05
+211.239.215.68,38080,TRUE,HK:HKG122,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,214,2.03
+211.239.215.68,27015,TRUE,HK:HKG123,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,308,2.02
+203.173.96.72,12500,TRUE,HK:HKG124,HK,Asia Pacific,Hong Kong,38676,flexnetworks,199,2.02
+122.40.58.78,12230,TRUE,HK:HKG125,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,223,2.01
+82.152.164.142,443,TRUE,HK:HKG126,HK,Asia Pacific,Hong Kong,202662,Hytron Network Services Limited,289,2
+111.65.176.92,10243,TRUE,HK:HKG127,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,94,1.99
+154.9.246.89,27043,TRUE,HK:HKG128,HK,Asia Pacific,Hong Kong,5855404,HGC Global Communications Limited,41,1.95
+138.19.151.193,34500,TRUE,HK:HKG129,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,50,1.92
+203.173.96.72,17020,TRUE,HK:HKG130,HK,Asia Pacific,Hong Kong,38676,flexnetworks,201,1.91
+211.239.141.169,12106,TRUE,HK:HKG131,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,211,1.91
+47.242.74.110,443,TRUE,HK:HKG132,HK,Asia Pacific,Hong Kong,6050274,Fifth Dog Network Limited,142,1.9
+107.150.119.240,587,TRUE,HK:HKG133,HK,Asia Pacific,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,72,1.89
+180.68.64.242,12230,TRUE,HK:HKG134,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,89,1.88
+154.9.246.89,27050,TRUE,HK:HKG135,HK,Asia Pacific,Hong Kong,6245144,HGC Global Communications Limited,44,1.85
+211.239.215.68,12332,TRUE,HK:HKG136,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,322,1.84
+138.19.151.193,12285,TRUE,HK:HKG137,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,60,1.78
+154.9.246.89,27013,TRUE,HK:HKG138,HK,Asia Pacific,Hong Kong,6440014,Fifth Dog Network Limited,172,1.78
+108.162.198.222,443,TRUE,HK:HKG139,HK,Asia Pacific,Hong Kong,6634884,HGC Global Communications Limited,552,1.75
+163.177.58.169,47313,TRUE,HK:HKG140,HK,Asia Pacific,Hong Kong,135061,China Unicom Guangdong IP network,42,1.69
+114.205.18.189,25647,TRUE,HK:HKG141,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,89,1.67
+1.235.176.215,20880,TRUE,HK:HKG142,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,79,1.64
+195.54.171.57,8443,TRUE,HK:HKG143,HK,Asia Pacific,Hong Kong,9009,M247 Europe SRL,203,1.6
+221.141.80.241,20053,TRUE,HK:HKG144,HK,Asia Pacific,Hong Kong,6829754,Fifth Dog Network Limited,294,1.58
+49.246.25.199,16831,TRUE,HK:HKG145,HK,Asia Pacific,Hong Kong,7024624,HGC Global Communications Limited,447,1.58
+211.239.215.68,13579,TRUE,HK:HKG146,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,198,1.54
+138.19.151.193,12587,TRUE,HK:HKG147,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,58,1.51
+43.229.154.140,4445,TRUE,HK:HKG148,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,36,1.44
+23.224.149.69,9443,TRUE,HK:HKG149,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,38,1.44
+58.228.102.17,10005,TRUE,HK:HKG150,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,111,1.36
+183.236.51.57,32878,TRUE,HK:HKG151,HK,Asia Pacific,Hong Kong,7219494,Fifth Dog Network Limited,41,1.33
+101.32.10.244,10457,TRUE,HK:HKG152,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",36,1.31
+138.19.151.193,12502,TRUE,HK:HKG153,HK,Asia Pacific,Hong Kong,7414364,HGC Global Communications Limited,114,1.28
+123.202.145.26,443,TRUE,HK:HKG154,HK,Asia Pacific,Hong Kong,7609234,Fifth Dog Network Limited,15,1.26
+116.204.210.10,443,TRUE,HK:HKG155,HK,Asia Pacific,Hong Kong,132883,TOPWAY GLOBAL LIMITED,38,1.25
+211.239.141.169,10936,TRUE,HK:HKG156,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,205,1.24
+152.32.168.249,443,TRUE,HK:HKG157,HK,Asia Pacific,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,123,1.24
+138.19.151.193,11122,TRUE,HK:HKG158,HK,Asia Pacific,Hong Kong,7804104,HGC Global Communications Limited,112,1.24
+183.236.51.57,25600,TRUE,HK:HKG159,HK,Asia Pacific,Hong Kong,7998974,Fifth Dog Network Limited,41,1.24
+211.239.141.169,12119,TRUE,HK:HKG160,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,211,1.23
+58.233.176.176,12444,TRUE,HK:HKG161,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,92,1.22
+138.19.151.193,12153,TRUE,HK:HKG162,HK,Asia Pacific,Hong Kong,8193844,HGC Global Communications Limited,111,1.22
+49.246.44.215,18031,TRUE,HK:HKG163,HK,Asia Pacific,Hong Kong,10054,CMB Kwangju Broadcasting,190,1.2
+138.19.151.193,21300,TRUE,HK:HKG164,HK,Asia Pacific,Hong Kong,8388714,Fifth Dog Network Limited,109,1.2
+138.19.151.193,16095,TRUE,HK:HKG165,HK,Asia Pacific,Hong Kong,8583584,HGC Global Communications Limited,112,1.18
+154.3.37.101,44424,TRUE,HK:HKG166,HK,Asia Pacific,Hong Kong,8778454,Fifth Dog Network Limited,74,1.18
+138.19.151.193,12401,TRUE,HK:HKG167,HK,Asia Pacific,Hong Kong,8973324,HGC Global Communications Limited,111,1.16
+183.94.30.165,29312,TRUE,HK:HKG168,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,19,1.15
+1.246.226.166,12399,TRUE,HK:HKG169,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,80,1.14
+138.19.151.193,12539,TRUE,HK:HKG170,HK,Asia Pacific,Hong Kong,9168194,Fifth Dog Network Limited,110,1.14
+8.218.249.165,587,TRUE,HK:HKG171,HK,Asia Pacific,Hong Kong,9363064,HGC Global Communications Limited,59,1.14
+203.9.150.125,20002,TRUE,HK:HKG172,HK,Asia Pacific,Hong Kong,133752,Leaseweb Asia Pacific pte. ltd.,301,1.13
+157.254.22.77,8443,TRUE,HK:HKG173,HK,Asia Pacific,Hong Kong,202662,Hytron Network Services Limited,301,1.13
+188.253.112.218,443,TRUE,HK:HKG174,HK,Asia Pacific,Hong Kong,38136,Akari Networks,286,1.13
+27.0.232.205,443,TRUE,HK:HKG175,HK,Asia Pacific,Hong Kong,133752,Leaseweb Asia Pacific pte. ltd.,306,1.13
+138.19.151.193,12257,TRUE,HK:HKG176,HK,Asia Pacific,Hong Kong,9557934,Fifth Dog Network Limited,111,1.12
+82.152.163.227,443,TRUE,HK:HKG177,HK,Asia Pacific,Hong Kong,202662,Hytron Network Services Limited,292,1.11
+138.19.151.193,26004,TRUE,HK:HKG178,HK,Asia Pacific,Hong Kong,9752804,HGC Global Communications Limited,111,1.1
+1.235.176.215,12500,TRUE,HK:HKG179,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,97,1.09
+183.94.30.165,46854,TRUE,HK:HKG180,HK,Asia Pacific,Hong Kong,9947674,Fifth Dog Network Limited,473,1.09
+39.117.51.21,10480,TRUE,HK:HKG181,HK,Asia Pacific,Hong Kong,10142544,HGC Global Communications Limited,335,1.09
+113.199.23.82,16104,TRUE,HK:HKG182,HK,Asia Pacific,Hong Kong,17608,ABN,233,1.08
+190.92.233.69,7443,TRUE,HK:HKG183,HK,Asia Pacific,Hong Kong,136907,HUAWEI CLOUDS,165,1.08
+138.19.151.193,10566,TRUE,HK:HKG184,HK,Asia Pacific,Hong Kong,10337414,Fifth Dog Network Limited,112,1.08
+154.9.246.89,30387,TRUE,HK:HKG185,HK,Asia Pacific,Hong Kong,10532284,HGC Global Communications Limited,55,1.07
+185.74.222.252,8443,TRUE,HK:HKG186,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,324,1.06
+185.74.222.61,2053,TRUE,HK:HKG187,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,353,1.06
+194.246.114.73,8443,TRUE,HK:HKG188,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,329,1.06
+194.246.114.19,2053,TRUE,HK:HKG189,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,348,1.06
+38.47.204.86,443,TRUE,HK:HKG190,HK,Asia Pacific,Hong Kong,140227,"Hong Kong Communications International Co., Limited",41,1.05
+194.246.114.19,8443,TRUE,HK:HKG191,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,334,1.04
+61.92.139.201,32795,TRUE,HK:HKG192,HK,Asia Pacific,Hong Kong,10727154,Fifth Dog Network Limited,17,1.04
+211.239.215.68,12402,TRUE,HK:HKG193,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,205,1.03
+154.93.104.54,18888,TRUE,HK:HKG194,HK,Asia Pacific,Hong Kong,10922024,HGC Global Communications Limited,21,1.02
+101.32.206.215,3555,TRUE,HK:HKG195,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",42,1.01
+211.239.215.68,18029,TRUE,HK:HKG196,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,197,1.01
+103.159.207.168,2086,TRUE,HK:HKG197,HK,Asia Pacific,Hong Kong,31972,EMGINECONCEPT-01,279,1
+47.238.117.28,587,TRUE,HK:HKG198,HK,Asia Pacific,Hong Kong,11116894,Fifth Dog Network Limited,74,1
+109.176.203.61,443,TRUE,HK:HKG199,HK,Asia Pacific,Hong Kong,11311764,HGC Global Communications Limited,58,1
+211.239.141.169,12469,TRUE,HK:HKG200,HK,Asia Pacific,Hong Kong,9848,Sejong Telecom,213,0.99
+222.166.34.43,11300,TRUE,HK:HKG201,HK,Asia Pacific,Hong Kong,9908,HK Cable TV Ltd,69,0.98
+222.166.34.43,12137,TRUE,HK:HKG202,HK,Asia Pacific,Hong Kong,9908,HK Cable TV Ltd,60,0.95
+91.229.132.49,8080,TRUE,HK:HKG203,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,303,0.92
+23.224.149.68,9443,TRUE,HK:HKG204,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,39,0.87
+154.18.161.172,18443,TRUE,HK:HKG205,HK,Asia Pacific,Hong Kong,202662,Hytron Network Services Limited,292,0.87
+194.246.114.73,2053,TRUE,HK:HKG206,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,319,0.83
+156.234.17.144,443,TRUE,HK:HKG207,HK,Asia Pacific,Hong Kong,138415,Yancy Limited,37,0.82
+115.138.57.64,12159,TRUE,HK:HKG208,HK,Asia Pacific,Hong Kong,17858,LG POWERCOMM,140,0.81
+154.9.246.89,27061,TRUE,HK:HKG209,HK,Asia Pacific,Hong Kong,11506634,Fifth Dog Network Limited,53,0.79
+154.16.183.59,443,TRUE,HK:HKG210,HK,Asia Pacific,Hong Kong,198100,WAP.AC LTD,287,0.78
+138.19.151.193,16831,TRUE,HK:HKG211,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,59,0.76
+45.39.199.138,443,TRUE,HK:HKG212,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,299,0.72
+185.74.222.252,2053,TRUE,HK:HKG213,HK,Asia Pacific,Hong Kong,11701504,HGC Global Communications Limited,323,0.7
+223.16.138.113,10201,TRUE,HK:HKG214,HK,Asia Pacific,Hong Kong,11896374,Fifth Dog Network Limited,301,0.69
+113.199.23.82,10002,TRUE,HK:HKG215,HK,Asia Pacific,Hong Kong,17608,ABN,247,0.68
+45.92.219.179,10081,TRUE,HK:HKG216,HK,Asia Pacific,Hong Kong,204174,Fifth Dog Network Limited,311,0.67
+38.207.154.50,20070,TRUE,HK:HKG217,HK,Asia Pacific,Hong Kong,138997,Eons Data Communications Limited,307,0.64
+43.132.244.52,21415,TRUE,HK:HKG218,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",34,0.62
+113.199.14.37,11371,TRUE,HK:HKG219,HK,Asia Pacific,Hong Kong,12091244,HGC Global Communications Limited,255,0.61
+193.233.193.12,2053,TRUE,HK:HKG220,HK,Asia Pacific,Hong Kong,135330,ADCDATA.COM,351,0.59
+113.30.6.86,10243,TRUE,HK:HKG221,HK,Asia Pacific,Hong Kong,9971,SK Broadband Co Ltd,97,0.59
+103.21.220.248,29608,TRUE,HK:HKG222,HK,Asia Pacific,Hong Kong,133752,Leaseweb Asia Pacific pte. ltd.,304,0.59
+154.16.183.94,8443,TRUE,HK:HKG223,HK,Asia Pacific,Hong Kong,12286114,Fifth Dog Network Limited,290,0.59
+122.2.198.74,443,TRUE,HK:HKG224,HK,Asia Pacific,Hong Kong,9299,Philippine Long Distance Telephone Company,331,0.58
+91.229.133.61,443,TRUE,HK:HKG225,HK,Asia Pacific,Hong Kong,12480984,HGC Global Communications Limited,280,0.57
+167.253.158.63,2053,TRUE,HK:HKG226,HK,Asia Pacific,Hong Kong,59253,Leaseweb Asia Pacific pte. ltd.,343,0.55
+167.253.158.63,8443,TRUE,HK:HKG227,HK,Asia Pacific,Hong Kong,59253,Leaseweb Asia Pacific pte. ltd.,329,0.54
+46.8.78.9,2053,TRUE,HK:HKG228,HK,Asia Pacific,Hong Kong,0,,348,0.53
+185.74.222.219,2053,TRUE,HK:HKG229,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,354,0.53
+95.182.100.92,2053,TRUE,HK:HKG230,HK,Asia Pacific,Hong Kong,12675854,Fifth Dog Network Limited,330,0.53
+154.21.202.107,4433,TRUE,HK:HKG231,HK,Asia Pacific,Hong Kong,12870724,HGC Global Communications Limited,40,0.53
+194.246.114.33,2053,TRUE,HK:HKG232,HK,Asia Pacific,Hong Kong,13065594,Fifth Dog Network Limited,345,0.53
+185.74.222.219,8443,TRUE,HK:HKG233,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,352,0.52
+46.8.78.9,8443,TRUE,HK:HKG234,HK,Asia Pacific,Hong Kong,0,,348,0.52
+154.197.80.118,2096,TRUE,HK:HKG235,HK,Asia Pacific,Hong Kong,13260464,HGC Global Communications Limited,536,0.52
+74.119.193.237,2053,TRUE,HK:HKG236,HK,Asia Pacific,Hong Kong,13455334,Fifth Dog Network Limited,353,0.52
+95.182.100.92,8443,TRUE,HK:HKG237,HK,Asia Pacific,Hong Kong,13650204,HGC Global Communications Limited,339,0.48
+193.233.193.12,8443,TRUE,HK:HKG238,HK,Asia Pacific,Hong Kong,135330,ADCDATA.COM,333,0.45
+141.11.77.158,27312,TRUE,HK:HKG239,HK,Asia Pacific,Hong Kong,13845074,Fifth Dog Network Limited,330,0.45
+141.11.217.127,443,TRUE,HK:HKG240,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,311,0.38
+61.245.10.43,443,TRUE,HK:HKG241,HK,Asia Pacific,Hong Kong,14039944,HGC Global Communications Limited,394,0.38
+183.236.51.57,32569,TRUE,HK:HKG242,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",41,0.36
+43.135.71.102,11443,TRUE,HK:HKG243,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",41,0.36
+58.176.95.46,443,TRUE,HK:HKG244,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,54,0.35
+106.75.178.154,8969,TRUE,HK:HKG245,HK,Asia Pacific,Hong Kong,58466,CHINANET Guangdong province network,39,0.35
+194.156.99.186,443,TRUE,HK:HKG246,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,323,0.32
+58.232.221.46,443,TRUE,HK:HKG247,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,33,0.32
+38.207.173.112,61234,TRUE,HK:HKG248,HK,Asia Pacific,Hong Kong,967,VMISS,207,0.32
+204.194.66.183,443,TRUE,HK:HKG249,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,43,0.3
+45.123.188.137,2053,TRUE,HK:HKG250,HK,Asia Pacific,Hong Kong,133398,Tele Asia Limited,342,0.29
+124.216.13.203,16068,TRUE,HK:HKG251,HK,Asia Pacific,Hong Kong,45361,Ulsan Jung-Ang Broadcasting Network,152,0.29
+103.41.65.161,587,TRUE,HK:HKG252,HK,Asia Pacific,Hong Kong,14234814,Fifth Dog Network Limited,39,0.29
+45.158.230.210,443,TRUE,HK:HKG253,HK,Asia Pacific,Hong Kong,14429684,HGC Global Communications Limited,41,0.29
+154.16.10.34,8080,TRUE,HK:HKG254,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,295,0.27
+74.119.193.94,2053,TRUE,HK:HKG255,HK,Asia Pacific,Hong Kong,44477,Stark Industries Solutions Ltd,325,0.27
+119.8.238.73,81,TRUE,HK:HKG256,HK,Asia Pacific,Hong Kong,136907,HUAWEI CLOUDS,174,0.27
+154.83.17.232,443,TRUE,HK:HKG257,HK,Asia Pacific,Hong Kong,14624554,Fifth Dog Network Limited,39,0.27
+2.56.91.89,8443,TRUE,HK:HKG258,HK,Asia Pacific,Hong Kong,142113,eServer,360,0.26
