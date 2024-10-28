@@ -1,4 +1,4 @@
-IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍥藉,鍦板尯,鍩庡競,ASN,ORG,寤惰繜(ms),閫熷害(MB/s)
 [2606:4700:839f:feb5:e332:22b4:dfb3:37f1],443,TRUE,IPV6:AMS,Europe,Amsterdam,Amsterdam,,,244 ms,10
 [2606:4700:91bf:a245:e505:680d:888d:8033],443,TRUE,IPV6:AMS,Europe,Amsterdam,Amsterdam,,,245 ms,10
 [2606:4700:91bd:65b2:18c6:7880:cd2c:3224],443,TRUE,IPV6:AMS,Europe,Amsterdam,Amsterdam,,,245 ms,10
@@ -72,7 +72,6 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 [2606:4700:3039:21cd:ddc9:d739:e683:924d],443,TRUE,IPV6:LHR,Europe,London,London,,,223 ms,10
 [2606:4700:3036:49cc:1773:5467:57fb:1bb],443,TRUE,IPV6:LHR,Europe,London,London,,,224 ms,10
 [2606:4700:3035:5ba1:9c6f:5bd3:9f8c:9fd3],443,TRUE,IPV6:LHR,Europe,London,London,,,226 ms,10
-[2606:4700:8d79:5ffc:4f35:a82e:1733:dcc2],443,TRUE,IPV6:SIN,Asia Pacific,Singapore,Singapore,,,243 ms,10
 [2606:4700:3110:efa5:ece6:1d27:beb0:a45c],443,TRUE,IPV6:SJC,North America,San Jose,San Jose,,,130 ms,10
 [2606:4700:3118:41c9:777f:7bc2:31d9:5c23],443,TRUE,IPV6:SJC,North America,San Jose,San Jose,,,132 ms,10
 [2606:4700:3116:d385:c524:7a54:122d:38e8],443,TRUE,IPV6:SJC,North America,San Jose,San Jose,,,133 ms,10
