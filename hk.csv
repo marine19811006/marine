@@ -1,35 +1,4 @@
-IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-172.67.31.37,443,TRUE,HK:HKG1,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,122 ms,11
-172.67.30.209,443,TRUE,HK:HKG2,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,125 ms,11
-104.16.213.171,443,TRUE,HK:HKG3,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,125 ms,11
-104.22.53.245,443,TRUE,HK:HKG4,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,126 ms,11
-104.16.221.133,443,TRUE,HK:HKG5,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,126 ms,11
-172.67.27.93,443,TRUE,HK:HKG6,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,127 ms,11
-104.16.214.49,443,TRUE,HK:HKG7,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,127 ms,11
-172.67.43.109,443,TRUE,HK:HKG8,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,127 ms,11
-172.67.25.148,443,TRUE,HK:HKG9,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,128 ms,11
-104.18.18.210,443,TRUE,HK:HKG10,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,128 ms,11
-104.16.43.153,443,TRUE,HK:HKG11,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,128 ms,11
-172.67.32.78,443,TRUE,HK:HKG12,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,129 ms,11
-104.22.56.154,443,TRUE,HK:HKG13,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,129 ms,11
-104.16.216.209,443,TRUE,HK:HKG14,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,129 ms,11
-104.16.223.73,443,TRUE,HK:HKG15,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,129 ms,11
-172.67.34.170,443,TRUE,HK:HKG16,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,130 ms,11
-172.67.40.9,443,TRUE,HK:HKG17,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,130 ms,11
-172.67.36.166,443,TRUE,HK:HKG18,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,130 ms,11
-172.67.23.190,443,TRUE,HK:HKG19,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,130 ms,11
-104.17.75.32,443,TRUE,HK:HKG20,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,131 ms,11
-104.22.27.96,443,TRUE,HK:HKG21,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,131 ms,11
-104.22.16.116,443,TRUE,HK:HKG22,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,131 ms,11
-104.22.28.104,443,TRUE,HK:HKG23,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,131 ms,11
-104.16.33.182,443,TRUE,HK:HKG24,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,132 ms,11
-172.67.20.250,443,TRUE,HK:HKG25,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,132 ms,11
-172.67.44.127,443,TRUE,HK:HKG26,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,133 ms,11
-172.67.19.173,443,TRUE,HK:HKG27,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,135 ms,11
-172.67.33.190,443,TRUE,HK:HKG28,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,136 ms,11
-104.16.47.22,443,TRUE,HK:HKG29,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,137 ms,11
-104.16.32.179,443,TRUE,HK:HKG30,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,138 ms,11
-104.22.18.231,443,TRUE,HK:HKG31,HK,Asia Pacific,Hong Kong,13335,SK Broadband Co Ltd,144 ms,11
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍥藉,鍦板尯,鍩庡競,ASN,ORG,寤惰繜(ms),閫熷害(MB/s)
 8.217.206.52,31458,TRUE,HK:HKG32,HK,Asia Pacific,Hong Kong,399044,HGC Global Communications Limited,36,21.319
 183.94.30.165,27267,TRUE,HK:HKG33,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,20,21.29
 47.56.196.176,9443,TRUE,HK:HKG34,HK,Asia Pacific,Hong Kong,45102,Alibaba US Technology Co Ltd,42,14.97
