@@ -1,4 +1,4 @@
-IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍥藉,鍦板尯,鍩庡競,ASN,ORG,寤惰繜(ms),閫熷害(MB/s)
 38.59.230.15,49694,TRUE,DE:FRA1,DE,Europe,Frankfurt,41378,Kirino LLC,165,25.13
 185.225.200.18,8443,TRUE,DE:FRA2,DE,Europe,Frankfurt,210644,Aeza International Ltd,206,17.17
 93.177.67.252,2053,TRUE,DE:FRA3,DE,Europe,Frankfurt,197540,netcup GmbH,199,16.66
