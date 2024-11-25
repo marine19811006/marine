@@ -1,4 +1,4 @@
-IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍥藉,鍦板尯,鍩庡競,ASN,ORG,寤惰繜(ms),閫熷害(MB/s)
 212.34.153.94,443,TRUE,NL:AMS1,NL,Europe,Amsterdam,0,,240,16.9
 93.183.91.45,443,TRUE,NL:AMS2,NL,Europe,Amsterdam,0,,230,16.56
 77.238.235.72,443,TRUE,NL:AMS3,NL,Europe,Amsterdam,216071,Servers Tech Fzco,222,11.14
