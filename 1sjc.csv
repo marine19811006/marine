@@ -1,4 +1,4 @@
-IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍥藉,鍦板尯,鍩庡競,ASN,ORG,寤惰繜(ms),閫熷害(MB/s)
 38.59.241.39,10000,TRUE,US:SJC001,US,North America,San Jose,41378,Kirino LLC,132,20.62
 45.152.84.33,2053,TRUE,US:SJC002,US,North America,San Jose,56971,Cgi Global Limited,134,16.59
 185.218.7.217,1443,TRUE,US:SJC003,US,North America,San Jose,51089,SnapStack Limited,132,14.8
