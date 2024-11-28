@@ -1,4 +1,4 @@
-IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍥藉,鍦板尯,鍩庡競,ASN,ORG,寤惰繜(ms),閫熷害(MB/s)
 172.64.40.243,443,TRUE,US:LAX001,US,North America,Los Angeles,13335,CLOUDFLARENET,146,21.34
 172.64.78.70,443,TRUE,US:LAX003,US,North America,Atlanta,13335,CLOUDFLARENET,202,17.55
 64.69.37.83,9999,TRUE,US:LAX004,US,North America,Los Angeles,35916,MULTA-ASN1,146,17.37
@@ -89,4 +89,3 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 38.95.114.124,50500,TRUE,US:LAX097,US,North America,Los Angeles,142111,Zhejiang Aiyun Network Technology Co Ltd,140,9.05
 144.34.213.78,443,TRUE,US:LAX098,US,North America,Los Angeles,25820,IT7NET,154,9.04
 74.48.200.167,443,TRUE,US:LAX099,US,North America,Los Angeles,35916,MULTA-ASN1,179,9.01
-r,,,,,,,,,,
